@@ -1,0 +1,10 @@
+{"result": "W", "win": "0.47411152742644486", "draw": "0.22958154574853118", "lose": "0.296306926825024", "team": "Tigre", "opponent": "Velez Sarsfield"}
+{"result": "W", "win": "0.47411152742644486", "draw": "0.22958154574853118", "lose": "0.296306926825024", "team": "Tigre", "opponent": "Velez Sarsfield"}
+{"result": "W", "win": "0.8034731822234596", "draw": "0.16553784447088704", "lose": "0.03098897330565336", "team": "River Plate", "opponent": "Instituto Cordoba"}
+{"result": "W", "win": "0.4323979216921576", "draw": "0.2846040014684639", "lose": "0.2829980768393785", "team": "Godoy Cruz", "opponent": "Boca Juniors"}
+{"result": "W", "win": "0.3871742838923692", "draw": "0.3153375544273065", "lose": "0.29748816168032427", "team": "Racing Club", "opponent": "Barracas Central"}
+{"result": "W", "win": "0.4523871628702886", "draw": "0.15046393682140743", "lose": "0.39714890030830396", "team": "Aucas", "opponent": "Orense SC"}
+{"result": "W", "win": "0.4523871628702886", "draw": "0.15046393682140743", "lose": "0.39714890030830396", "team": "Aucas", "opponent": "Orense SC"}
+{"result": "W", "win": "0.3937220882679717", "draw": "0.31855058973144557", "lose": "0.2877273220005828", "team": "Union Santa Fe", "opponent": "Independiente"}
+{"result": "W", "win": "0.3728643345857088", "draw": "0.2848788681489667", "lose": "0.34225679726532454", "team": "Argentinos JRS", "opponent": "Defensa Y Justicia"}
+{"result": "W", "win": "0.379854263767226", "draw": "0.250147694393682", "lose": "0.369998041839092", "team": "Huracan", "opponent": "Newells Old Boys"}

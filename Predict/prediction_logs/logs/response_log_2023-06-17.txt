@@ -1,0 +1,22 @@
+{"result": "L", "win": "0.39922432358474563", "draw": "0.1642917701712505", "lose": "0.4364839062440039", "team": "HFX Wanderers FC", "opponent": "Cavalry FC"}
+{"result": "L", "win": "0.42667278272326314", "draw": "0.10283069835626543", "lose": "0.4704965189204715", "team": "Valour", "opponent": "Forge"}
+{"result": "L", "win": "0.39922432358474563", "draw": "0.1642917701712505", "lose": "0.4364839062440039", "team": "HFX Wanderers FC", "opponent": "Cavalry FC"}
+{"result": "L", "win": "0.42667278272326314", "draw": "0.10283069835626543", "lose": "0.4704965189204715", "team": "Valour", "opponent": "Forge"}
+{"result": "L", "win": "0.2355371542152247", "draw": "0.25295295800847517", "lose": "0.5115098877763002", "team": "Union Santa Fe", "opponent": "Lanus"}
+{"result": "L", "win": "0.2355371542152247", "draw": "0.25295295800847517", "lose": "0.5115098877763002", "team": "Union Santa Fe", "opponent": "Lanus"}
+{"result": "L", "win": "0.42667278272326314", "draw": "0.10283069835626543", "lose": "0.4704965189204715", "team": "Valour", "opponent": "Forge"}
+{"result": "L", "win": "0.39922432358474563", "draw": "0.1642917701712505", "lose": "0.4364839062440039", "team": "HFX Wanderers FC", "opponent": "Cavalry FC"}
+{"result": "L", "win": "0.2355371542152247", "draw": "0.25295295800847517", "lose": "0.5115098877763002", "team": "Union Santa Fe", "opponent": "Lanus"}
+{"result": "W", "win": "0.40274642415475487", "draw": "0.25480713063085453", "lose": "0.3424464452143905", "team": "Racing Club", "opponent": "Velez Sarsfield"}
+{"result": "L", "win": "0.42667278272326314", "draw": "0.10283069835626543", "lose": "0.4704965189204715", "team": "Valour", "opponent": "Forge"}
+{"result": "W", "win": "0.4919961891147036", "draw": "0.11308395476577318", "lose": "0.3949198561195232", "team": "Independiente del Valle", "opponent": "El Nacional"}
+{"result": "L", "win": "0.42959705610827886", "draw": "0.14028917284289907", "lose": "0.4301137710488221", "team": "Cumbay\u00e1", "opponent": "Libertad"}
+{"result": "W", "win": "0.4601465938942311", "draw": "0.11681115256243775", "lose": "0.4230422535433312", "team": "Gualaceo SC", "opponent": "Guayaquil City FC"}
+{"result": "W", "win": "0.4840856131922214", "draw": "0.21282350144425624", "lose": "0.30309088536352236", "team": "FC Cincinnati", "opponent": "Toronto FC"}
+{"result": "L", "win": "0.25217507382823506", "draw": "0.2753740122318221", "lose": "0.4724509139399429", "team": "Orlando City SC", "opponent": "Philadelphia Union"}
+{"result": "L", "win": "0.3216798577521026", "draw": "0.2693619965757987", "lose": "0.4089581456720987", "team": "Colorado Rapids", "opponent": "Vancouver Whitecaps"}
+{"result": "L", "win": "0.2355371542152247", "draw": "0.25295295800847517", "lose": "0.5115098877763002", "team": "Union Santa Fe", "opponent": "Lanus"}
+{"result": "L", "win": "0.39922432358474563", "draw": "0.1642917701712505", "lose": "0.4364839062440039", "team": "HFX Wanderers FC", "opponent": "Cavalry FC"}
+{"result": "L", "win": "0.42667278272326314", "draw": "0.10283069835626543", "lose": "0.4704965189204715", "team": "Valour", "opponent": "Forge"}
+{"result": "L", "win": "0.39922432358474563", "draw": "0.1642917701712505", "lose": "0.4364839062440039", "team": "HFX Wanderers FC", "opponent": "Cavalry FC"}
+{"result": "L", "win": "0.42667278272326314", "draw": "0.10283069835626543", "lose": "0.4704965189204715", "team": "Valour", "opponent": "Forge"}

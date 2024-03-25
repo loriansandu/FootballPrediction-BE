@@ -1,0 +1,11 @@
+{"result": "L", "win": "0.0033301904853286915", "draw": "0.12272601274913855", "lose": "0.8739437967655328", "team": "Shenzhen Ruby FC", "opponent": "Chengdu Better City"}
+{"result": "W", "win": "0.5952942750431953", "draw": "0.2698066120133763", "lose": "0.13489911294342832", "team": "Shandong Luneng", "opponent": "Changchun Yatai"}
+{"result": "L", "win": "0.2503587952994382", "draw": "0.22380719504789098", "lose": "0.5258340096526708", "team": "Beijing Guoan", "opponent": "SHANGHAI SIPG"}
+{"result": "L", "win": "0.24659056788115968", "draw": "0.3577548262650062", "lose": "0.39565460585383405", "team": "Platense", "opponent": "Lanus"}
+{"result": "L", "win": "0.2515186924205194", "draw": "0.2219750208506716", "lose": "0.526506286728809", "team": "Beijing Guoan", "opponent": "SHANGHAI SIPG"}
+{"result": "L", "win": "0.0033843834603448594", "draw": "0.12063010969423085", "lose": "0.8759855068454243", "team": "Shenzhen Ruby FC", "opponent": "Chengdu Better City"}
+{"result": "L", "win": "0.24659056788115968", "draw": "0.3577548262650062", "lose": "0.39565460585383405", "team": "Platense", "opponent": "Lanus"}
+{"result": "L", "win": "0.3929858488854563", "draw": "0.1476787094009615", "lose": "0.45933544171358215", "team": "Honka", "opponent": "HJK helsinki"}
+{"result": "W", "win": "0.4653068358541679", "draw": "0.11181925715088684", "lose": "0.4228739069949454", "team": "Jeonbuk Motors", "opponent": "Jeju United FC"}
+{"result": "W", "win": "0.4563490173196554", "draw": "0.1592031540834296", "lose": "0.384447828596915", "team": "FC Seoul", "opponent": "Daejeon Citizen"}
+{"result": "L", "win": "0.26813398272801614", "draw": "0.2528305471833379", "lose": "0.479035470088646", "team": "Valerenga", "opponent": "Viking"}

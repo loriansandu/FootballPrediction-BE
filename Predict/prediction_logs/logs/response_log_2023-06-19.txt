@@ -1,0 +1,30 @@
+{"result": "W", "win": "0.5006455094392278", "draw": "0.27198380461953214", "lose": "0.22737068594124", "team": "Atlanta United FC", "opponent": "New York City FC"}
+{"result": "W", "win": "0.6580845839902951", "draw": "0.20506259072047273", "lose": "0.1368528252892321", "team": "FC Cincinnati", "opponent": "Toronto FC"}
+{"result": "W", "win": "0.38567806670465865", "draw": "0.2949971699777853", "lose": "0.31932476331755605", "team": "Estudiantes L.P.", "opponent": "San Lorenzo"}
+{"result": "L", "win": "0.23107905212807522", "draw": "0.30330585207828353", "lose": "0.46561509579364124", "team": "Montreal Impact", "opponent": "Nashville SC"}
+{"result": "W", "win": "0.6580845839902951", "draw": "0.20506259072047273", "lose": "0.1368528252892321", "team": "FC Cincinnati", "opponent": "Toronto FC"}
+{"result": "W", "win": "0.5006455094392278", "draw": "0.27198380461953214", "lose": "0.22737068594124", "team": "Atlanta United FC", "opponent": "New York City FC"}
+{"result": "L", "win": "0.2605287214581842", "draw": "0.3021488807257956", "lose": "0.43732239781602017", "team": "Orlando City SC", "opponent": "Philadelphia Union"}
+{"result": "L", "win": "0.32140541084888763", "draw": "0.32424175849461573", "lose": "0.3543528306564966", "team": "Central Cordoba de Santiago", "opponent": "Gimnasia L.P."}
+{"result": "W", "win": "0.6261551227047923", "draw": "0.2417129306447349", "lose": "0.1321319466504728", "team": "New York Red Bulls", "opponent": "Charlotte"}
+{"result": "W", "win": "0.4967442774495213", "draw": "0.23819350223329383", "lose": "0.26506222031718485", "team": "Houston Dynamo", "opponent": "San Jose Earthquakes"}
+{"result": "L", "win": "0.3310293709953076", "draw": "0.3036134083673838", "lose": "0.3653572206373086", "team": "Colorado Rapids", "opponent": "Vancouver Whitecaps"}
+{"result": "W", "win": "0.43774411064578855", "draw": "0.27470592562156926", "lose": "0.2875499637326422", "team": "St. Louis City", "opponent": "Real Salt Lake"}
+{"result": "W", "win": "0.37409910214495556", "draw": "0.2860111160765439", "lose": "0.3398897817785006", "team": "Austin", "opponent": "FC Dallas"}
+{"result": "W", "win": "0.42339239063072037", "draw": "0.2560389473363798", "lose": "0.3205686620328999", "team": "Los Angeles Galaxy", "opponent": "Sporting Kansas City"}
+{"result": "W", "win": "0.6322533496210857", "draw": "0.196895925052691", "lose": "0.17085072532622328", "team": "Los Angeles FC", "opponent": "Seattle Sounders"}
+{"result": "W", "win": "0.4503190142372485", "draw": "0.22798792941699308", "lose": "0.3216930563457584", "team": "Tigre", "opponent": "Velez Sarsfield"}
+{"result": "W", "win": "0.4503190142372485", "draw": "0.22798792941699308", "lose": "0.3216930563457584", "team": "Tigre", "opponent": "Velez Sarsfield"}
+{"result": "L", "win": "0.32140541084888763", "draw": "0.32424175849461573", "lose": "0.3543528306564966", "team": "Central Cordoba de Santiago", "opponent": "Gimnasia L.P."}
+{"result": "W", "win": "0.38567806670465865", "draw": "0.2949971699777853", "lose": "0.31932476331755605", "team": "Estudiantes L.P.", "opponent": "San Lorenzo"}
+{"result": "W", "win": "0.6261551227047923", "draw": "0.2417129306447349", "lose": "0.1321319466504728", "team": "New York Red Bulls", "opponent": "Charlotte"}
+{"result": "W", "win": "0.6580845839902951", "draw": "0.20506259072047273", "lose": "0.1368528252892321", "team": "FC Cincinnati", "opponent": "Toronto FC"}
+{"result": "L", "win": "0.2605287214581842", "draw": "0.3021488807257956", "lose": "0.43732239781602017", "team": "Orlando City SC", "opponent": "Philadelphia Union"}
+{"result": "L", "win": "0.23107905212807522", "draw": "0.30330585207828353", "lose": "0.46561509579364124", "team": "Montreal Impact", "opponent": "Nashville SC"}
+{"result": "W", "win": "0.5006455094392278", "draw": "0.27198380461953214", "lose": "0.22737068594124", "team": "Atlanta United FC", "opponent": "New York City FC"}
+{"result": "W", "win": "0.37409910214495556", "draw": "0.2860111160765439", "lose": "0.3398897817785006", "team": "Austin", "opponent": "FC Dallas"}
+{"result": "W", "win": "0.4967442774495213", "draw": "0.23819350223329383", "lose": "0.26506222031718485", "team": "Houston Dynamo", "opponent": "San Jose Earthquakes"}
+{"result": "W", "win": "0.43774411064578855", "draw": "0.27470592562156926", "lose": "0.2875499637326422", "team": "St. Louis City", "opponent": "Real Salt Lake"}
+{"result": "L", "win": "0.3310293709953076", "draw": "0.3036134083673838", "lose": "0.3653572206373086", "team": "Colorado Rapids", "opponent": "Vancouver Whitecaps"}
+{"result": "W", "win": "0.6322533496210857", "draw": "0.196895925052691", "lose": "0.17085072532622328", "team": "Los Angeles FC", "opponent": "Seattle Sounders"}
+{"result": "W", "win": "0.42339239063072037", "draw": "0.2560389473363798", "lose": "0.3205686620328999", "team": "Los Angeles Galaxy", "opponent": "Sporting Kansas City"}

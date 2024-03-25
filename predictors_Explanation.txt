@@ -1,0 +1,20 @@
+poss = posesie
+sh = suturi total
+sot = suturi pe spatiul portii
+fk = lovituri libere
+pk = penalty-uri
+pkatt = penalty-uri transformate
+crdr = cartonase rosii
+og = autogoluri
+2crdy = 2 cartonase galbene
+home_team points = puncte in campionat inainte de meci echipa gazda
+away_team points = puncte in campionat inainte de meci echipa oaspete
+away_team last_3_games = punctele acumulate in ultimele 3 meciuri (W = +3, D = +1, L = +0 --> forma actuala)
+home_team last_3_games = punctele acumulate in ultimele 3 meciuri (W = +3, D = +1, L = +0 --> forma actuala)
+B365T = cota ca echipa sa castige
+B365O = cota ca oponentul sa castige
+B365D = cota ca meciul sa se termine la egalitate
+wins = numar meciuri directe castigate de echipa gazda impotriva away_team
+losses = numar meciuri directe pierdute de echipa gazda in fata away_team
+draws = numar meciuri directe terminate la egalitate cu away_team
+venue_code = echipa joaca acasa sau in deplasare 

@@ -1,0 +1,2079 @@
+,team,opponent,wins,losses,draws,date
+0,Arsenal,Crystal Palace,9,3,6,2022-08-05
+1,Arsenal,Leicester,9,4,3,2022-08-13
+2,Arsenal,Bournemouth,7,1,2,2022-08-20
+3,Arsenal,Fulham,7,1,3,2022-08-27
+4,Arsenal,Aston Villa,12,5,1,2022-08-31
+5,Arsenal,Manchester United,7,10,7,2022-09-04
+6,Arsenal,Brentford,1,1,0,2022-09-18
+7,Arsenal,Tottenham,8,9,7,2022-10-01
+8,Arsenal,Liverpool,5,11,8,2022-10-09
+9,Arsenal,Manchester United,7,11,7,2022-10-16
+10,Arsenal,Southampton,10,4,6,2022-10-23
+11,Arsenal,Nottingham Forest,0,0,0,2022-10-30
+12,Arsenal,Chelsea,7,11,6,2022-11-06
+13,Arsenal,Wolves,6,3,3,2022-11-12
+14,Arsenal,West Ham,17,2,3,2022-12-26
+15,Arsenal,Brighton,3,4,3,2022-12-31
+16,Arsenal,Newcastle,17,3,2,2023-01-03
+17,Arsenal,Tottenham,9,9,7,2023-01-15
+18,Arsenal,Manchester United,7,11,7,2023-01-22
+19,Arsenal,Everton,13,6,5,2023-02-04
+20,Arsenal,Brentford,2,1,0,2023-02-11
+21,Arsenal,Manchester City,4,14,6,2023-02-15
+22,Arsenal,Aston Villa,13,5,1,2023-02-18
+23,Arsenal,Leicester,10,4,3,2023-02-25
+24,Arsenal,Everton,13,7,5,2023-03-01
+25,Arsenal,Bournemouth,8,1,2,2023-03-04
+26,Arsenal,Fulham,8,1,3,2023-03-12
+27,Arsenal,Crystal Palace,10,3,6,2023-03-19
+28,Arsenal,Brentford,0,0,0,2021-08-13
+29,Arsenal,Chelsea,6,10,6,2021-08-22
+30,Arsenal,Manchester City,4,12,6,2021-08-28
+31,Arsenal,Norwich,6,1,3,2021-09-11
+32,Arsenal,Burnley,9,1,2,2021-09-18
+33,Arsenal,Tottenham,7,8,7,2021-09-26
+34,Arsenal,Brighton,3,3,2,2021-10-02
+35,Arsenal,Crystal Palace,9,2,5,2021-10-18
+36,Arsenal,Aston Villa,10,5,1,2021-10-22
+37,Arsenal,Leicester,7,4,3,2021-10-30
+38,Arsenal,Watford,7,2,1,2021-11-07
+39,Arsenal,Liverpool,5,9,8,2021-11-20
+40,Arsenal,Newcastle,16,2,2,2021-11-27
+41,Arsenal,Manchester United,6,9,7,2021-12-02
+42,Arsenal,Everton,12,5,5,2021-12-06
+43,Arsenal,Southampton,9,3,6,2021-12-11
+44,Arsenal,West Ham,15,2,3,2021-12-15
+45,Arsenal,Manchester United,6,10,7,2021-12-18
+46,Arsenal,Norwich,7,1,3,2021-12-26
+47,Arsenal,Manchester City,4,13,6,2022-01-01
+48,Arsenal,Burnley,10,1,2,2022-01-23
+49,Arsenal,Wolves,4,3,3,2022-02-10
+50,Arsenal,Brentford,0,1,0,2022-02-19
+51,Arsenal,Wolves,5,3,3,2022-02-24
+52,Arsenal,Watford,8,2,1,2022-03-06
+53,Arsenal,Leicester,8,4,3,2022-03-13
+54,Arsenal,Liverpool,5,10,8,2022-03-16
+55,Arsenal,Aston Villa,11,5,1,2022-03-19
+56,Arsenal,Crystal Palace,9,2,6,2022-04-04
+57,Arsenal,Brighton,3,3,3,2022-04-09
+58,Arsenal,Southampton,10,3,6,2022-04-16
+59,Arsenal,Chelsea,6,11,6,2022-04-20
+60,Arsenal,Manchester United,6,10,7,2022-04-23
+61,Arsenal,West Ham,16,2,3,2022-05-01
+62,Arsenal,Manchester United,7,10,7,2022-05-08
+63,Arsenal,Tottenham,8,8,7,2022-05-12
+64,Arsenal,Newcastle,17,2,2,2022-05-16
+65,Arsenal,Everton,12,6,5,2022-05-22
+66,Arsenal,Fulham,6,1,2,2020-09-12
+67,Arsenal,West Ham,14,2,2,2020-09-19
+68,Arsenal,Liverpool,5,7,8,2020-09-28
+69,Arsenal,Sheffield Utd,0,1,1,2020-10-04
+70,Arsenal,Manchester City,4,10,6,2020-10-17
+71,Arsenal,Leicester,6,3,3,2020-10-25
+72,Arsenal,Manchester United,5,9,6,2020-11-01
+73,Arsenal,Aston Villa,10,3,1,2020-11-08
+74,Arsenal,Manchester United,6,9,6,2020-11-22
+75,Arsenal,Wolves,4,1,3,2020-11-29
+76,Arsenal,Tottenham,6,7,7,2020-12-06
+77,Arsenal,Burnley,9,0,1,2020-12-13
+78,Arsenal,Southampton,8,3,5,2020-12-16
+79,Arsenal,Everton,12,3,5,2020-12-19
+80,Arsenal,Chelsea,4,10,6,2020-12-26
+81,Arsenal,Brighton,1,3,2,2020-12-29
+82,Arsenal,West Brom,10,3,3,2021-01-02
+83,Arsenal,Crystal Palace,8,2,4,2021-01-14
+84,Arsenal,Newcastle,14,2,2,2021-01-18
+85,Arsenal,Southampton,8,3,6,2021-01-26
+86,Arsenal,Manchester United,6,9,6,2021-01-30
+87,Arsenal,Wolves,4,2,3,2021-02-02
+88,Arsenal,Aston Villa,10,4,1,2021-02-06
+89,Arsenal,Manchester United,6,9,7,2021-02-14
+90,Arsenal,Manchester City,4,11,6,2021-02-21
+91,Arsenal,Leicester,6,4,3,2021-02-28
+92,Arsenal,Burnley,9,1,1,2021-03-06
+93,Arsenal,Tottenham,6,8,7,2021-03-14
+94,Arsenal,West Ham,15,2,2,2021-03-21
+95,Arsenal,Liverpool,5,8,8,2021-04-03
+96,Arsenal,Sheffield Utd,1,1,1,2021-04-11
+97,Arsenal,Fulham,7,1,2,2021-04-18
+98,Arsenal,Everton,12,4,5,2021-04-23
+99,Arsenal,Newcastle,15,2,2,2021-05-02
+100,Arsenal,West Brom,11,3,3,2021-05-09
+101,Arsenal,Chelsea,5,10,6,2021-05-12
+102,Arsenal,Crystal Palace,8,2,5,2021-05-19
+103,Arsenal,Brighton,2,3,2,2021-05-23
+104,Manchester United,Brighton,7,3,0,2022-08-07
+105,Manchester United,Brentford,2,0,0,2022-08-13
+106,Manchester United,Liverpool,9,8,7,2022-08-22
+107,Manchester United,Southampton,9,2,9,2022-08-27
+108,Manchester United,Leicester,8,3,5,2022-09-01
+109,Manchester United,Manchester City,8,12,4,2022-10-02
+110,Manchester United,Everton,10,6,8,2022-10-09
+111,Manchester United,Newcastle,13,4,5,2022-10-16
+112,Manchester United,Tottenham,12,7,5,2022-10-19
+113,Manchester United,Chelsea,7,6,11,2022-10-22
+114,Manchester United,West Ham,13,3,6,2022-10-30
+115,Manchester United,Aston Villa,13,1,4,2022-11-06
+116,Manchester United,Fulham,9,0,3,2022-11-13
+117,Manchester United,Nottingham Forest,0,0,0,2022-12-27
+118,Manchester United,Wolves,6,3,3,2022-12-31
+119,Manchester United,Bournemouth,7,2,1,2023-01-03
+120,Manchester United,Manchester City,8,13,4,2023-01-14
+121,Manchester United,Crystal Palace,12,3,3,2023-01-18
+122,Manchester United,Crystal Palace,12,3,4,2023-02-04
+123,Manchester United,Manchester United,0,0,0,2023-02-08
+124,Manchester United,Manchester United,0,0,0,2023-02-12
+125,Manchester United,Leicester,9,3,5,2023-02-19
+126,Manchester United,Liverpool,10,8,7,2023-03-05
+127,Manchester United,Southampton,10,2,9,2023-03-12
+128,Manchester United,Brighton,7,4,0,2023-03-19
+129,Manchester United,Manchester United,0,0,0,2021-08-14
+130,Manchester United,Southampton,9,2,7,2021-08-22
+131,Manchester United,Wolves,5,2,3,2021-08-29
+132,Manchester United,Newcastle,12,4,4,2021-09-11
+133,Manchester United,West Ham,11,3,6,2021-09-19
+134,Manchester United,Aston Villa,13,0,3,2021-09-25
+135,Manchester United,Everton,10,5,7,2021-10-02
+136,Manchester United,Leicester,8,2,4,2021-10-16
+137,Manchester United,Liverpool,9,6,7,2021-10-24
+138,Manchester United,Leeds,3,0,1,2023-02-08
+139,Manchester United,Leeds,3,0,2,2023-02-12
+140,Manchester United,Leeds,1,0,1,2021-08-14
+141,Manchester United,Tottenham,10,7,5,2021-10-30
+142,Manchester United,Manchester City,8,10,4,2021-11-06
+143,Manchester United,Watford,8,2,0,2021-11-20
+144,Manchester United,Chelsea,7,6,9,2021-11-28
+145,Manchester United,Crystal Palace,11,2,3,2021-12-05
+146,Manchester United,Norwich,8,2,0,2021-12-11
+147,Manchester United,Newcastle,13,4,4,2021-12-27
+148,Manchester United,Burnley,7,1,4,2021-12-30
+149,Manchester United,Wolves,6,2,3,2022-01-03
+150,Manchester United,Aston Villa,13,1,3,2022-01-15
+151,Manchester United,Brentford,0,0,0,2022-01-19
+152,Manchester United,West Ham,12,3,6,2022-01-22
+153,Manchester United,Burnley,8,1,4,2022-02-08
+154,Manchester United,Southampton,9,2,8,2022-02-12
+155,Manchester United,Brighton,6,2,0,2022-02-15
+156,Manchester United,Leeds,2,0,1,2022-02-20
+157,Manchester United,Watford,8,3,0,2022-02-26
+158,Manchester United,Manchester City,8,11,4,2022-03-06
+159,Manchester United,Tottenham,11,7,5,2022-03-12
+160,Manchester United,Leicester,8,3,4,2022-04-02
+161,Manchester United,Everton,10,5,8,2022-04-09
+162,Manchester United,Norwich,9,2,0,2022-04-16
+163,Manchester United,Liverpool,9,7,7,2022-04-19
+164,Manchester United,Chelsea,7,6,10,2022-04-28
+165,Manchester United,Brentford,1,0,0,2022-05-02
+166,Manchester United,Brighton,7,2,0,2022-05-07
+167,Manchester United,Crystal Palace,12,2,3,2022-05-22
+168,Manchester United,Crystal Palace,11,1,2,2020-09-19
+169,Manchester United,Brighton,4,2,0,2020-09-26
+170,Manchester United,Tottenham,9,6,5,2020-10-04
+171,Manchester United,Newcastle,10,4,4,2020-10-17
+172,Manchester United,Chelsea,7,6,7,2020-10-24
+173,Manchester United,Everton,9,5,6,2020-11-07
+174,Manchester United,West Brom,8,4,4,2020-11-21
+175,Manchester United,Southampton,7,2,7,2020-11-29
+176,Manchester United,West Ham,9,3,6,2020-12-05
+177,Manchester United,Manchester City,7,10,3,2020-12-12
+178,Manchester United,Sheffield Utd,1,0,1,2020-12-17
+179,Manchester United,Leeds,0,0,0,2020-12-20
+180,Manchester United,Leicester,8,1,3,2020-12-26
+181,Manchester United,Wolves,3,2,3,2020-12-29
+182,Manchester United,Aston Villa,11,0,3,2021-01-01
+183,Manchester United,Burnley,5,1,4,2021-01-12
+184,Manchester United,Liverpool,9,5,6,2021-01-17
+185,Manchester United,Fulham,8,0,2,2021-01-20
+186,Manchester United,Sheffield Utd,2,0,1,2021-01-27
+187,Manchester United,Southampton,8,2,7,2021-02-02
+188,Manchester United,Everton,10,5,6,2021-02-06
+189,Manchester United,West Brom,9,4,4,2021-02-14
+190,Manchester United,Newcastle,11,4,4,2021-02-21
+191,Manchester United,Chelsea,7,6,8,2021-02-28
+192,Manchester United,Crystal Palace,11,2,2,2021-03-03
+193,Manchester United,Manchester City,7,10,4,2021-03-07
+194,Manchester United,West Ham,10,3,6,2021-03-14
+195,Manchester United,Brighton,5,2,0,2021-04-04
+196,Manchester United,Tottenham,9,7,5,2021-04-11
+197,Manchester United,Burnley,6,1,4,2021-04-18
+198,Manchester United,Leeds,1,0,0,2021-04-25
+199,Manchester United,Aston Villa,12,0,3,2021-05-09
+200,Manchester United,Leicester,8,1,4,2021-05-11
+201,Manchester United,Liverpool,9,5,7,2021-05-13
+202,Manchester United,Fulham,9,0,2,2021-05-18
+203,Manchester United,Wolves,4,2,3,2021-05-23
+204,Newcastle,Nottingham Forest,0,0,0,2022-08-06
+205,Newcastle,Brighton,1,4,5,2022-08-13
+206,Newcastle,Manchester City,1,19,2,2022-08-21
+207,Newcastle,Wolves,3,2,7,2022-08-28
+208,Newcastle,Liverpool,4,12,6,2022-08-31
+209,Newcastle,Crystal Palace,7,4,5,2022-09-03
+210,Newcastle,Bournemouth,4,2,2,2022-09-17
+211,Newcastle,Fulham,5,4,3,2022-10-01
+212,Newcastle,Brentford,1,0,1,2022-10-08
+213,Newcastle,Everton,7,12,3,2022-10-19
+214,Newcastle,Tottenham,6,12,4,2022-10-23
+215,Newcastle,Aston Villa,7,4,7,2022-10-29
+216,Newcastle,Southampton,7,6,5,2022-11-06
+217,Newcastle,Chelsea,6,13,3,2022-11-12
+218,Newcastle,Leicester,5,9,0,2022-12-26
+219,Newcastle,Leeds,1,2,1,2022-12-31
+220,Newcastle,Fulham,6,4,3,2023-01-15
+221,Newcastle,Crystal Palace,7,4,6,2023-01-21
+222,Newcastle,West Ham,10,6,4,2023-02-04
+223,Newcastle,Bournemouth,4,2,3,2023-02-11
+224,Newcastle,Liverpool,4,13,6,2023-02-18
+225,Newcastle,Manchester City,1,19,3,2023-03-04
+226,Newcastle,Wolves,3,2,8,2023-03-12
+227,Newcastle,Nottingham Forest,1,0,0,2023-03-17
+228,Newcastle,West Ham,10,5,3,2021-08-15
+229,Newcastle,Aston Villa,6,3,7,2021-08-21
+230,Newcastle,Southampton,6,6,4,2021-08-28
+231,Newcastle,Leeds,0,2,0,2021-09-17
+232,Newcastle,Watford,1,5,2,2021-09-25
+233,Newcastle,Wolves,2,1,7,2021-10-02
+234,Newcastle,Tottenham,6,10,4,2021-10-17
+235,Newcastle,Crystal Palace,6,4,4,2021-10-23
+236,Newcastle,Chelsea,6,11,3,2021-10-30
+237,Newcastle,Brighton,0,4,4,2021-11-06
+238,Newcastle,Brentford,0,0,0,2021-11-20
+239,Newcastle,Norwich,4,3,3,2021-11-30
+240,Newcastle,Burnley,4,2,4,2021-12-04
+241,Newcastle,Leicester,4,8,0,2021-12-12
+242,Newcastle,Liverpool,4,10,6,2021-12-16
+243,Newcastle,Manchester City,1,17,2,2021-12-19
+244,Newcastle,Watford,1,5,3,2022-01-15
+245,Newcastle,Leeds,0,2,1,2022-01-22
+246,Newcastle,Everton,6,11,3,2022-02-08
+247,Newcastle,Aston Villa,6,4,7,2022-02-13
+248,Newcastle,West Ham,10,6,3,2022-02-19
+249,Newcastle,Brentford,0,0,1,2022-02-26
+250,Newcastle,Brighton,0,4,5,2022-03-05
+251,Newcastle,Southampton,6,6,5,2022-03-10
+252,Newcastle,Chelsea,6,12,3,2022-03-13
+253,Newcastle,Everton,7,11,3,2022-03-17
+254,Newcastle,Tottenham,6,11,4,2022-04-03
+255,Newcastle,Wolves,2,2,7,2022-04-08
+256,Newcastle,Leicester,4,9,0,2022-04-17
+257,Newcastle,Crystal Palace,6,4,5,2022-04-20
+258,Newcastle,Norwich,4,3,4,2022-04-23
+259,Newcastle,Liverpool,4,11,6,2022-04-30
+260,Newcastle,Manchester City,1,18,2,2022-05-08
+261,Newcastle,Burnley,5,2,4,2022-05-22
+262,Newcastle,West Ham,8,5,3,2020-09-12
+263,Newcastle,Brighton,0,2,4,2020-09-20
+264,Newcastle,Tottenham,6,10,2,2020-09-27
+265,Newcastle,Burnley,2,2,4,2020-10-03
+266,Newcastle,Wolves,2,1,5,2020-10-25
+267,Newcastle,Everton,4,11,3,2020-11-01
+268,Newcastle,Southampton,5,5,4,2020-11-06
+269,Newcastle,Chelsea,6,9,3,2020-11-21
+270,Newcastle,Crystal Palace,5,3,4,2020-11-27
+271,Newcastle,West Brom,5,5,3,2020-12-12
+272,Newcastle,Leeds,0,0,0,2020-12-16
+273,Newcastle,Fulham,4,4,2,2020-12-19
+274,Newcastle,Manchester City,1,15,2,2020-12-26
+275,Newcastle,Liverpool,4,10,4,2020-12-30
+276,Newcastle,Leicester,3,7,0,2021-01-03
+277,Newcastle,Sheffield Utd,2,0,0,2021-01-12
+278,Newcastle,Aston Villa,6,2,6,2021-01-23
+279,Newcastle,Leeds,0,1,0,2021-01-26
+280,Newcastle,Everton,5,11,3,2021-01-30
+281,Newcastle,Crystal Palace,6,3,4,2021-02-02
+282,Newcastle,Southampton,5,6,4,2021-02-06
+283,Newcastle,Chelsea,6,10,3,2021-02-15
+284,Newcastle,Wolves,2,1,6,2021-02-27
+285,Newcastle,West Brom,6,5,3,2021-03-07
+286,Newcastle,Aston Villa,6,3,6,2021-03-12
+287,Newcastle,Brighton,0,3,4,2021-03-20
+288,Newcastle,Tottenham,6,10,3,2021-04-04
+289,Newcastle,Burnley,3,2,4,2021-04-11
+290,Newcastle,West Ham,9,5,3,2021-04-17
+291,Newcastle,Liverpool,4,10,5,2021-04-24
+292,Newcastle,Leicester,3,8,0,2021-05-07
+293,Newcastle,Manchester City,1,16,2,2021-05-14
+294,Newcastle,Sheffield Utd,2,1,0,2021-05-19
+295,Newcastle,Fulham,4,4,3,2021-05-23
+296,Bournemouth,Aston Villa,3,1,0,2022-08-06
+297,Bournemouth,Manchester City,0,10,0,2022-08-13
+298,Bournemouth,Liverpool,1,8,1,2022-08-27
+299,Bournemouth,Wolves,0,3,1,2022-08-31
+300,Bournemouth,Nottingham Forest,0,0,0,2022-09-03
+301,Bournemouth,Brentford,0,0,0,2022-10-01
+302,Bournemouth,Leicester,3,2,5,2022-10-08
+303,Bournemouth,Fulham,1,1,0,2022-10-15
+304,Bournemouth,Southampton,2,4,4,2022-10-19
+305,Bournemouth,West Ham,4,3,3,2022-10-24
+306,Bournemouth,Tottenham,1,7,2,2022-10-29
+307,Bournemouth,Leeds,0,0,0,2022-11-05
+308,Bournemouth,Everton,4,4,2,2022-11-12
+309,Bournemouth,Chelsea,4,5,1,2022-12-27
+310,Bournemouth,Crystal Palace,2,4,4,2022-12-31
+311,Bournemouth,Brentford,0,0,1,2023-01-14
+312,Bournemouth,Nottingham Forest,1,0,0,2023-01-21
+313,Bournemouth,Brighton,4,1,1,2023-02-04
+314,Bournemouth,Wolves,0,3,2,2023-02-18
+315,Bournemouth,Manchester City,0,11,0,2023-02-25
+316,Bournemouth,Liverpool,1,9,1,2023-03-11
+317,Bournemouth,Aston Villa,4,1,0,2023-03-18
+318,Fulham,Liverpool,3,8,1,2022-08-06
+319,Fulham,Wolves,2,4,2,2022-08-13
+320,Fulham,Brentford,0,0,0,2022-08-20
+321,Fulham,Brighton,1,0,3,2022-08-30
+322,Fulham,Tottenham,1,10,1,2022-09-03
+323,Fulham,Nottingham Forest,0,0,0,2022-09-16
+324,Fulham,West Ham,2,6,2,2022-10-09
+325,Fulham,Aston Villa,3,3,4,2022-10-20
+326,Fulham,Leeds,0,2,0,2022-10-23
+327,Fulham,Everton,2,8,2,2022-10-29
+328,Fulham,Manchester City,0,10,2,2022-11-05
+329,Fulham,Crystal Palace,1,3,2,2022-12-26
+330,Fulham,Southampton,1,4,3,2022-12-31
+331,Fulham,Leicester,1,2,1,2023-01-03
+332,Fulham,Chelsea,0,8,4,2023-01-12
+333,Fulham,Tottenham,1,11,1,2023-01-23
+334,Fulham,Chelsea,1,8,4,2023-02-03
+335,Fulham,Nottingham Forest,1,0,0,2023-02-11
+336,Fulham,Brighton,2,0,3,2023-02-18
+337,Fulham,Wolves,2,4,3,2023-02-24
+338,Fulham,Brentford,1,0,0,2023-03-06
+339,Fulham,Leeds,0,0,0,2020-09-19
+340,Fulham,Aston Villa,3,1,4,2020-09-28
+341,Fulham,Wolves,2,2,2,2020-10-04
+342,Fulham,Sheffield Utd,0,0,0,2020-10-18
+343,Fulham,Crystal Palace,1,2,1,2020-10-24
+344,Fulham,West Brom,3,1,4,2020-11-02
+345,Fulham,West Ham,2,5,1,2020-11-07
+346,Fulham,Everton,1,7,2,2020-11-22
+347,Fulham,Leicester,0,1,1,2020-11-30
+348,Fulham,Manchester City,0,8,2,2020-12-05
+349,Fulham,Liverpool,2,8,0,2020-12-13
+350,Fulham,Brighton,1,0,1,2020-12-16
+351,Fulham,Southampton,1,3,2,2020-12-26
+352,Fulham,Tottenham,1,9,0,2021-01-13
+353,Fulham,Chelsea,0,6,4,2021-01-16
+354,Fulham,Brighton,1,0,2,2021-01-27
+355,Fulham,West Brom,4,1,4,2021-01-30
+356,Fulham,Leicester,1,1,1,2021-02-03
+357,Fulham,West Ham,2,6,1,2021-02-06
+358,Fulham,Everton,1,8,2,2021-02-14
+359,Fulham,Burnley,1,1,0,2021-02-17
+360,Fulham,Sheffield Utd,0,0,1,2021-02-20
+361,Fulham,Crystal Palace,1,3,1,2021-02-28
+362,Fulham,Tottenham,1,9,1,2021-03-04
+363,Fulham,Liverpool,2,8,1,2021-03-07
+364,Fulham,Manchester City,0,9,2,2021-03-13
+365,Fulham,Leeds,0,1,0,2021-03-19
+366,Fulham,Aston Villa,3,2,4,2021-04-04
+367,Fulham,Wolves,2,3,2,2021-04-09
+368,Fulham,Chelsea,0,7,4,2021-05-01
+369,Fulham,Burnley,1,1,1,2021-05-10
+370,Fulham,Southampton,1,3,3,2021-05-15
+371,Wolves,Leeds,2,1,1,2022-08-06
+372,Wolves,Tottenham,3,6,3,2022-08-20
+373,Wolves,Southampton,5,1,2,2022-09-03
+374,Wolves,Manchester City,3,8,1,2022-09-17
+375,Wolves,West Ham,5,4,1,2022-10-01
+376,Wolves,Chelsea,3,5,4,2022-10-08
+377,Wolves,Nottingham Forest,0,0,0,2022-10-15
+378,Wolves,Crystal Palace,3,4,1,2022-10-18
+379,Wolves,Leicester,2,3,3,2022-10-23
+380,Wolves,Brentford,1,1,0,2022-10-29
+381,Wolves,Brighton,2,2,4,2022-11-05
+382,Wolves,Everton,4,5,3,2022-12-26
+383,Wolves,Aston Villa,5,3,2,2023-01-04
+384,Wolves,West Ham,5,5,1,2023-01-14
+385,Wolves,Manchester City,3,9,1,2023-01-22
+386,Wolves,Liverpool,1,11,0,2023-02-04
+387,Wolves,Southampton,6,1,2,2023-02-11
+388,Wolves,Liverpool,2,11,0,2023-03-01
+389,Wolves,Tottenham,3,7,3,2023-03-04
+390,Wolves,Leeds,2,2,1,2023-03-18
+391,Wolves,Leicester,1,2,3,2021-08-14
+392,Wolves,Tottenham,2,5,3,2021-08-22
+393,Wolves,Watford,2,2,0,2021-09-11
+394,Wolves,Brentford,0,0,0,2021-09-18
+395,Wolves,Southampton,3,1,2,2021-09-26
+396,Wolves,Aston Villa,3,3,2,2021-10-16
+397,Wolves,Leeds,2,0,0,2021-10-23
+398,Wolves,Everton,2,5,3,2021-11-01
+399,Wolves,Crystal Palace,3,2,1,2021-11-06
+400,Wolves,West Ham,4,3,1,2021-11-20
+401,Wolves,Norwich,2,1,1,2021-11-27
+402,Wolves,Burnley,1,3,2,2021-12-01
+403,Wolves,Liverpool,1,9,0,2021-12-04
+404,Wolves,Manchester City,3,6,1,2021-12-11
+405,Wolves,Brighton,1,1,4,2021-12-15
+406,Wolves,Chelsea,3,5,2,2021-12-19
+407,Wolves,Southampton,4,1,2,2022-01-15
+408,Wolves,Brentford,0,1,0,2022-01-22
+409,Wolves,Tottenham,2,6,3,2022-02-13
+410,Wolves,Leicester,1,3,3,2022-02-20
+411,Wolves,West Ham,5,3,1,2022-02-27
+412,Wolves,Crystal Palace,3,3,1,2022-03-05
+413,Wolves,Watford,3,2,0,2022-03-10
+414,Wolves,Everton,3,5,3,2022-03-13
+415,Wolves,Leeds,2,0,1,2022-03-18
+416,Wolves,Aston Villa,4,3,2,2022-04-02
+417,Wolves,Burnley,1,3,3,2022-04-24
+418,Wolves,Brighton,2,1,4,2022-04-30
+419,Wolves,Chelsea,3,5,3,2022-05-07
+420,Wolves,Manchester City,3,7,1,2022-05-11
+421,Wolves,Norwich,2,1,2,2022-05-15
+422,Wolves,Liverpool,1,10,0,2022-05-22
+423,Wolves,Sheffield Utd,0,1,1,2020-09-14
+424,Wolves,Manchester City,3,4,1,2020-09-21
+425,Wolves,West Ham,4,1,1,2020-09-27
+426,Wolves,Leeds,0,0,0,2020-10-19
+427,Wolves,Crystal Palace,2,1,1,2020-10-30
+428,Wolves,Leicester,1,1,2,2020-11-08
+429,Wolves,Southampton,2,1,1,2020-11-23
+430,Wolves,Liverpool,1,7,0,2020-12-06
+431,Wolves,Aston Villa,3,2,1,2020-12-12
+432,Wolves,Chelsea,2,5,1,2020-12-15
+433,Wolves,Burnley,1,1,2,2020-12-21
+434,Wolves,Tottenham,2,4,2,2020-12-27
+435,Wolves,Brighton,0,1,3,2021-01-02
+436,Wolves,Everton,2,3,3,2021-01-12
+437,Wolves,West Brom,1,2,1,2021-01-16
+438,Wolves,Chelsea,3,5,1,2021-01-27
+439,Wolves,Crystal Palace,3,1,1,2021-01-30
+440,Wolves,Leicester,1,2,2,2021-02-07
+441,Wolves,Southampton,2,1,2,2021-02-14
+442,Wolves,Leeds,1,0,0,2021-02-19
+443,Wolves,Manchester City,3,5,1,2021-03-02
+444,Wolves,Aston Villa,3,3,1,2021-03-06
+445,Wolves,Liverpool,1,8,0,2021-03-15
+446,Wolves,West Ham,4,2,1,2021-04-05
+447,Wolves,Sheffield Utd,1,1,1,2021-04-17
+448,Wolves,Burnley,1,2,2,2021-04-25
+449,Wolves,West Brom,1,3,1,2021-05-03
+450,Wolves,Brighton,0,1,4,2021-05-09
+451,Wolves,Tottenham,2,4,3,2021-05-16
+452,Wolves,Everton,2,4,3,2021-05-19
+453,Liverpool,Crystal Palace,13,4,1,2022-08-15
+454,Liverpool,Everton,10,2,12,2022-09-03
+455,Liverpool,Brighton,7,1,2,2022-10-01
+456,Liverpool,Manchester City,8,8,8,2022-10-16
+457,Liverpool,West Ham,14,5,3,2022-10-19
+458,Liverpool,Nottingham Forest,0,0,0,2022-10-22
+459,Liverpool,Leeds,3,0,1,2022-10-29
+460,Liverpool,Tottenham,12,5,7,2022-11-06
+461,Liverpool,Southampton,13,4,3,2022-11-12
+462,Liverpool,Aston Villa,12,3,2,2022-12-26
+463,Liverpool,Leicester,10,4,2,2022-12-30
+464,Liverpool,Brentford,1,0,1,2023-01-02
+465,Liverpool,Brighton,7,1,3,2023-01-14
+466,Liverpool,Chelsea,10,5,9,2023-01-21
+467,Liverpool,Everton,10,2,13,2023-02-13
+468,Liverpool,Crystal Palace,13,4,2,2023-02-25
+469,Liverpool,Norwich,8,0,2,2021-08-14
+470,Liverpool,Burnley,8,2,2,2021-08-21
+471,Liverpool,Chelsea,10,5,7,2021-08-28
+472,Liverpool,Leeds,1,0,1,2021-09-12
+473,Liverpool,Crystal Palace,11,4,1,2021-09-18
+474,Liverpool,Brentford,0,0,0,2021-09-25
+475,Liverpool,Manchester City,8,8,6,2021-10-03
+476,Liverpool,Watford,7,2,1,2021-10-16
+477,Liverpool,Brighton,6,1,1,2021-10-30
+478,Liverpool,West Ham,13,4,3,2021-11-07
+479,Liverpool,Southampton,11,4,3,2021-11-27
+480,Liverpool,Everton,8,2,12,2021-12-01
+481,Liverpool,Aston Villa,10,3,2,2021-12-11
+482,Liverpool,Tottenham,12,5,5,2021-12-19
+483,Liverpool,Leicester,9,3,2,2021-12-28
+484,Liverpool,Chelsea,10,5,8,2022-01-02
+485,Liverpool,Brentford,0,0,1,2022-01-16
+486,Liverpool,Crystal Palace,12,4,1,2022-01-23
+487,Liverpool,Leicester,9,4,2,2022-02-10
+488,Liverpool,Burnley,9,2,2,2022-02-13
+489,Liverpool,Norwich,9,0,2,2022-02-19
+490,Liverpool,Leeds,2,0,1,2022-02-23
+491,Liverpool,West Ham,13,5,3,2022-03-05
+492,Liverpool,Brighton,6,1,2,2022-03-12
+493,Liverpool,Watford,8,2,1,2022-04-02
+494,Liverpool,Manchester City,8,8,7,2022-04-10
+495,Liverpool,Everton,9,2,12,2022-04-24
+496,Liverpool,Tottenham,12,5,6,2022-05-07
+497,Liverpool,Aston Villa,11,3,2,2022-05-10
+498,Liverpool,Southampton,12,4,3,2022-05-17
+499,Liverpool,Leeds,0,0,0,2020-09-12
+500,Liverpool,Chelsea,9,4,7,2020-09-20
+501,Liverpool,Aston Villa,9,2,2,2020-10-04
+502,Liverpool,Everton,8,1,11,2020-10-17
+503,Liverpool,Sheffield Utd,2,0,0,2020-10-24
+504,Liverpool,West Ham,11,4,3,2020-10-31
+505,Liverpool,Manchester City,8,7,5,2020-11-08
+506,Liverpool,Leicester,8,2,2,2020-11-22
+507,Liverpool,Brighton,6,0,0,2020-11-28
+508,Liverpool,Tottenham,10,5,5,2020-12-16
+509,Liverpool,Crystal Palace,9,4,1,2020-12-19
+510,Liverpool,West Brom,6,4,6,2020-12-27
+511,Liverpool,Southampton,10,3,3,2021-01-04
+512,Liverpool,Burnley,7,1,2,2021-01-21
+513,Liverpool,Tottenham,11,5,5,2021-01-28
+514,Liverpool,West Ham,12,4,3,2021-01-31
+515,Liverpool,Brighton,6,0,1,2021-02-03
+516,Liverpool,Manchester City,8,7,6,2021-02-07
+517,Liverpool,Leicester,9,2,2,2021-02-13
+518,Liverpool,Everton,8,1,12,2021-02-20
+519,Liverpool,Sheffield Utd,3,0,0,2021-02-28
+520,Liverpool,Chelsea,10,4,7,2021-03-04
+521,Liverpool,Aston Villa,9,3,2,2021-04-10
+522,Liverpool,Leeds,1,0,0,2021-04-19
+523,Liverpool,Southampton,10,4,3,2021-05-08
+524,Liverpool,West Brom,6,4,7,2021-05-16
+525,Liverpool,Burnley,7,2,2,2021-05-19
+526,Liverpool,Crystal Palace,10,4,1,2021-05-23
+527,Southampton,Tottenham,4,13,3,2022-08-06
+528,Southampton,Leeds,1,2,1,2022-08-13
+529,Southampton,Leicester,4,7,5,2022-08-20
+530,Southampton,Chelsea,3,11,6,2022-08-30
+531,Southampton,Aston Villa,8,3,3,2022-09-16
+532,Southampton,Everton,7,9,4,2022-10-01
+533,Southampton,Manchester City,3,13,4,2022-10-08
+534,Southampton,West Ham,5,10,5,2022-10-16
+535,Southampton,Crystal Palace,10,5,3,2022-10-29
+536,Southampton,Brighton,3,1,6,2022-12-26
+537,Southampton,Nottingham Forest,0,0,0,2023-01-04
+538,Southampton,Everton,7,10,4,2023-01-14
+539,Southampton,Aston Villa,8,4,3,2023-01-21
+540,Southampton,Brentford,1,1,0,2023-02-04
+541,Southampton,Chelsea,4,11,6,2023-02-18
+542,Southampton,Leeds,1,2,2,2023-02-25
+543,Southampton,Leicester,5,7,5,2023-03-04
+544,Southampton,Brentford,1,2,0,2023-03-15
+545,Southampton,Tottenham,4,14,3,2023-03-18
+546,Southampton,Everton,6,8,4,2021-08-14
+547,Southampton,West Ham,4,10,4,2021-09-11
+548,Southampton,Manchester City,3,13,2,2021-09-18
+549,Southampton,Chelsea,3,9,6,2021-10-02
+550,Southampton,Leeds,0,2,0,2021-10-16
+551,Southampton,Burnley,4,5,3,2021-10-23
+552,Southampton,Watford,4,1,5,2021-10-30
+553,Southampton,Aston Villa,7,2,3,2021-11-05
+554,Southampton,Norwich,4,2,2,2021-11-20
+555,Southampton,Leicester,4,6,4,2021-12-01
+556,Southampton,Brighton,3,1,4,2021-12-04
+557,Southampton,Crystal Palace,10,4,2,2021-12-15
+558,Southampton,West Ham,4,10,5,2021-12-26
+559,Southampton,Tottenham,3,13,2,2021-12-28
+560,Southampton,Brentford,0,0,0,2022-01-11
+561,Southampton,Manchester City,3,13,3,2022-01-22
+562,Southampton,Tottenham,3,13,3,2022-02-09
+563,Southampton,Everton,6,9,4,2022-02-19
+564,Southampton,Norwich,4,3,2,2022-02-25
+565,Southampton,Aston Villa,8,2,3,2022-03-05
+566,Southampton,Watford,5,1,5,2022-03-13
+567,Southampton,Leeds,1,2,0,2022-04-02
+568,Southampton,Chelsea,3,10,6,2022-04-09
+569,Southampton,Burnley,4,5,4,2022-04-21
+570,Southampton,Brighton,3,1,5,2022-04-24
+571,Southampton,Crystal Palace,10,4,3,2022-04-30
+572,Southampton,Brentford,1,0,0,2022-05-07
+573,Southampton,Leicester,4,6,5,2022-05-22
+574,Southampton,Crystal Palace,9,3,2,2020-09-12
+575,Southampton,Tottenham,3,11,2,2020-09-20
+576,Southampton,Burnley,2,5,3,2020-09-26
+577,Southampton,West Brom,6,4,2,2020-10-04
+578,Southampton,Chelsea,3,9,4,2020-10-17
+579,Southampton,Everton,5,7,4,2020-10-25
+580,Southampton,Aston Villa,6,1,3,2020-11-01
+581,Southampton,Brighton,2,0,4,2020-12-07
+582,Southampton,Sheffield Utd,2,0,0,2020-12-13
+583,Southampton,Manchester City,3,11,2,2020-12-19
+584,Southampton,West Ham,4,9,3,2020-12-29
+585,Southampton,Leicester,4,5,3,2021-01-16
+586,Southampton,Aston Villa,7,1,3,2021-01-30
+587,Southampton,Chelsea,3,9,5,2021-02-20
+588,Southampton,Leeds,0,0,0,2021-02-23
+589,Southampton,Everton,6,7,4,2021-03-01
+590,Southampton,Sheffield Utd,3,0,0,2021-03-06
+591,Southampton,Manchester City,3,12,2,2021-03-10
+592,Southampton,Brighton,3,0,4,2021-03-14
+593,Southampton,Burnley,3,5,3,2021-04-04
+594,Southampton,West Brom,7,4,2,2021-04-12
+595,Southampton,Tottenham,3,12,2,2021-04-21
+596,Southampton,Leicester,4,6,3,2021-04-30
+597,Southampton,Crystal Palace,9,4,2,2021-05-11
+598,Southampton,Leeds,0,1,0,2021-05-18
+599,Southampton,West Ham,4,9,4,2021-05-23
+600,Everton,Chelsea,7,11,5,2022-08-06
+601,Everton,Aston Villa,6,6,6,2022-08-13
+602,Everton,Nottingham Forest,0,0,0,2022-08-20
+603,Everton,Brentford,0,2,0,2022-08-27
+604,Everton,Leeds,2,1,1,2022-08-30
+605,Everton,West Ham,11,6,5,2022-09-18
+606,Everton,Tottenham,4,10,10,2022-10-15
+607,Everton,Crystal Palace,7,3,8,2022-10-22
+608,Everton,Leicester,7,5,4,2022-11-05
+609,Everton,Manchester City,5,14,5,2022-12-31
+610,Everton,Brighton,5,3,2,2023-01-03
+611,Everton,West Ham,12,6,5,2023-01-21
+612,Everton,Leeds,2,1,2,2023-02-18
+613,Everton,Aston Villa,6,7,6,2023-02-25
+614,Everton,Nottingham Forest,0,0,1,2023-03-05
+615,Everton,Brentford,0,2,1,2023-03-11
+616,Everton,Chelsea,7,12,5,2023-03-18
+617,Everton,Leeds,1,1,0,2021-08-21
+618,Everton,Brighton,4,2,2,2021-08-28
+619,Everton,Burnley,6,5,1,2021-09-13
+620,Everton,Aston Villa,6,4,6,2021-09-18
+621,Everton,Norwich,3,2,5,2021-09-25
+622,Everton,West Ham,11,4,5,2021-10-17
+623,Everton,Watford,4,3,3,2021-10-23
+624,Everton,Tottenham,4,9,9,2021-11-07
+625,Everton,Manchester City,5,12,5,2021-11-21
+626,Everton,Brentford,0,0,0,2021-11-28
+627,Everton,Crystal Palace,6,2,8,2021-12-12
+628,Everton,Chelsea,6,11,4,2021-12-16
+629,Everton,Brighton,5,2,2,2022-01-02
+630,Everton,Norwich,4,2,5,2022-01-15
+631,Everton,Aston Villa,6,5,6,2022-01-22
+632,Everton,Leeds,1,1,1,2022-02-12
+633,Everton,Manchester City,5,13,5,2022-02-26
+634,Everton,Tottenham,4,9,10,2022-03-07
+635,Everton,West Ham,11,5,5,2022-04-03
+636,Everton,Burnley,7,5,1,2022-04-06
+637,Everton,Leicester,6,5,3,2022-04-20
+638,Everton,Chelsea,6,11,5,2022-05-01
+639,Everton,Leicester,6,5,4,2022-05-08
+640,Everton,Watford,4,4,3,2022-05-11
+641,Everton,Brentford,0,1,0,2022-05-15
+642,Everton,Crystal Palace,6,3,8,2022-05-19
+643,Everton,Tottenham,3,9,8,2020-09-13
+644,Everton,West Brom,7,4,5,2020-09-19
+645,Everton,Crystal Palace,5,2,7,2020-09-26
+646,Everton,Brighton,3,2,1,2020-10-03
+647,Everton,Leeds,0,0,0,2020-11-28
+648,Everton,Burnley,6,4,0,2020-12-05
+649,Everton,Chelsea,5,10,4,2020-12-12
+650,Everton,Leicester,5,5,2,2020-12-16
+651,Everton,Sheffield Utd,1,1,0,2020-12-26
+652,Everton,West Ham,10,3,5,2021-01-01
+653,Everton,Leicester,6,5,2,2021-01-27
+654,Everton,Leeds,0,1,0,2021-02-03
+655,Everton,Manchester City,5,10,5,2021-02-17
+656,Everton,West Brom,8,4,5,2021-03-04
+657,Everton,Chelsea,6,10,4,2021-03-08
+658,Everton,Burnley,6,4,1,2021-03-13
+659,Everton,Crystal Palace,6,2,7,2021-04-05
+660,Everton,Brighton,4,2,1,2021-04-12
+661,Everton,Tottenham,4,9,8,2021-04-16
+662,Everton,Aston Villa,6,3,5,2021-05-01
+663,Everton,West Ham,10,4,5,2021-05-09
+664,Everton,Aston Villa,6,4,5,2021-05-13
+665,Everton,Sheffield Utd,2,1,0,2021-05-16
+666,Everton,Manchester City,5,11,5,2021-05-23
+667,Leicester,Brentford,2,0,0,2022-08-07
+668,Leicester,Chelsea,3,7,6,2022-08-27
+669,Leicester,Brighton,6,1,3,2022-09-04
+670,Leicester,Tottenham,4,10,2,2022-09-17
+671,Leicester,Nottingham Forest,0,0,0,2022-10-03
+672,Leicester,Crystal Palace,7,6,3,2022-10-15
+673,Leicester,Leeds,2,1,1,2022-10-20
+674,Leicester,Manchester City,4,11,1,2022-10-29
+675,Leicester,West Ham,6,5,5,2022-11-12
+676,Leicester,Nottingham Forest,1,0,0,2023-01-14
+677,Leicester,Brighton,6,2,3,2023-01-21
+678,Leicester,Aston Villa,5,3,2,2023-02-04
+679,Leicester,Tottenham,4,11,2,2023-02-11
+680,Leicester,Chelsea,3,8,6,2023-03-11
+681,Leicester,Brentford,2,0,1,2023-03-18
+682,Leicester,West Ham,6,4,4,2021-08-23
+683,Leicester,Norwich,2,1,1,2021-08-28
+684,Leicester,Manchester City,4,9,1,2021-09-11
+685,Leicester,Brighton,6,0,2,2021-09-19
+686,Leicester,Burnley,6,3,3,2021-09-25
+687,Leicester,Crystal Palace,6,6,2,2021-10-03
+688,Leicester,Brentford,0,0,0,2021-10-24
+689,Leicester,Leeds,1,1,0,2021-11-07
+690,Leicester,Chelsea,3,6,5,2021-11-20
+691,Leicester,Watford,6,3,1,2021-11-28
+692,Leicester,Aston Villa,5,2,1,2021-12-05
+693,Leicester,Manchester City,4,10,1,2021-12-26
+694,Leicester,Tottenham,4,8,2,2022-01-19
+695,Leicester,Brighton,6,1,2,2022-01-23
+696,Leicester,West Ham,6,5,4,2022-02-13
+697,Leicester,Burnley,6,3,4,2022-03-01
+698,Leicester,Leeds,1,1,1,2022-03-05
+699,Leicester,Brentford,1,0,0,2022-03-20
+700,Leicester,Crystal Palace,6,6,3,2022-04-10
+701,Leicester,Aston Villa,5,3,1,2022-04-23
+702,Leicester,Tottenham,4,9,2,2022-05-01
+703,Leicester,Norwich,3,1,1,2022-05-11
+704,Leicester,Watford,7,3,1,2022-05-15
+705,Leicester,Chelsea,3,7,5,2022-05-19
+706,Leicester,West Brom,4,2,2,2020-09-13
+707,Leicester,Burnley,5,3,2,2020-09-20
+708,Leicester,Manchester City,3,8,1,2020-09-27
+709,Leicester,West Ham,6,2,4,2020-10-04
+710,Leicester,Aston Villa,4,1,1,2020-10-18
+711,Leicester,Leeds,0,0,0,2020-11-02
+712,Leicester,Sheffield Utd,2,0,0,2020-12-06
+713,Leicester,Brighton,4,0,2,2020-12-13
+714,Leicester,Tottenham,3,7,2,2020-12-20
+715,Leicester,Crystal Palace,5,6,1,2020-12-28
+716,Leicester,Chelsea,2,5,5,2021-01-19
+717,Leicester,Leeds,1,0,0,2021-01-31
+718,Leicester,Aston Villa,4,2,1,2021-02-21
+719,Leicester,Burnley,6,3,2,2021-03-03
+720,Leicester,Brighton,5,0,2,2021-03-06
+721,Leicester,Sheffield Utd,3,0,0,2021-03-14
+722,Leicester,Manchester City,4,8,1,2021-04-03
+723,Leicester,West Ham,6,3,4,2021-04-11
+724,Leicester,West Brom,5,2,2,2021-04-22
+725,Leicester,Crystal Palace,5,6,2,2021-04-26
+726,Leicester,Chelsea,3,5,5,2021-05-18
+727,Leicester,Tottenham,4,7,2,2021-05-23
+728,Tottenham,Chelsea,4,12,8,2022-08-14
+729,Tottenham,Nottingham Forest,0,0,0,2022-08-28
+730,Tottenham,West Ham,10,8,4,2022-08-31
+731,Tottenham,Brighton,6,3,1,2022-10-08
+732,Tottenham,Leeds,3,1,0,2022-11-12
+733,Tottenham,Brentford,1,0,1,2022-12-26
+734,Tottenham,Aston Villa,15,2,1,2023-01-01
+735,Tottenham,Crystal Palace,13,2,3,2023-01-04
+736,Tottenham,Manchester City,8,13,3,2023-01-19
+737,Tottenham,Manchester City,8,14,3,2023-02-05
+738,Tottenham,West Ham,10,8,5,2023-02-19
+739,Tottenham,Chelsea,4,12,9,2023-02-26
+740,Tottenham,Nottingham Forest,1,0,0,2023-03-11
+741,Tottenham,Manchester City,6,13,3,2021-08-15
+742,Tottenham,Watford,6,1,3,2021-08-29
+743,Tottenham,Crystal Palace,12,1,3,2021-09-11
+744,Tottenham,Chelsea,4,10,8,2021-09-19
+745,Tottenham,Aston Villa,13,2,1,2021-10-03
+746,Tottenham,West Ham,9,7,4,2021-10-24
+747,Tottenham,Leeds,1,1,0,2021-11-21
+748,Tottenham,Brentford,0,0,0,2021-12-02
+749,Tottenham,Norwich,5,2,3,2021-12-05
+750,Tottenham,Crystal Palace,12,2,3,2021-12-26
+751,Tottenham,Watford,7,1,3,2022-01-01
+752,Tottenham,Chelsea,4,11,8,2022-01-23
+753,Tottenham,Manchester City,7,13,3,2022-02-19
+754,Tottenham,Burnley,8,1,3,2022-02-23
+755,Tottenham,Leeds,2,1,0,2022-02-26
+756,Tottenham,Brighton,5,2,1,2022-03-16
+757,Tottenham,West Ham,9,8,4,2022-03-20
+758,Tottenham,Aston Villa,14,2,1,2022-04-09
+759,Tottenham,Brighton,6,2,1,2022-04-16
+760,Tottenham,Brentford,1,0,0,2022-04-23
+761,Tottenham,Burnley,8,2,3,2022-05-15
+762,Tottenham,Norwich,6,2,3,2022-05-22
+763,Tottenham,West Ham,9,6,3,2020-10-18
+764,Tottenham,Burnley,6,1,3,2020-10-26
+765,Tottenham,Brighton,4,1,1,2020-11-01
+766,Tottenham,West Brom,5,2,9,2020-11-08
+767,Tottenham,Manchester City,5,12,3,2020-11-21
+768,Tottenham,Chelsea,4,9,7,2020-11-29
+769,Tottenham,Crystal Palace,11,1,2,2020-12-13
+770,Tottenham,Leeds,0,0,0,2021-01-02
+771,Tottenham,Sheffield Utd,0,1,1,2021-01-17
+772,Tottenham,Brighton,5,1,1,2021-01-31
+773,Tottenham,Chelsea,4,9,8,2021-02-04
+774,Tottenham,West Brom,6,2,9,2021-02-07
+775,Tottenham,Manchester City,6,12,3,2021-02-13
+776,Tottenham,West Ham,9,6,4,2021-02-21
+777,Tottenham,Burnley,7,1,3,2021-02-28
+778,Tottenham,Crystal Palace,11,1,3,2021-03-07
+779,Tottenham,Aston Villa,12,1,1,2021-03-21
+780,Tottenham,Sheffield Utd,1,1,1,2021-05-02
+781,Tottenham,Leeds,1,0,0,2021-05-08
+782,Tottenham,Aston Villa,13,1,1,2021-05-19
+783,West Ham,Manchester City,2,16,4,2022-08-07
+784,West Ham,Nottingham Forest,0,0,0,2022-08-14
+785,West Ham,Brighton,0,4,6,2022-08-21
+786,West Ham,Aston Villa,7,4,5,2022-08-28
+787,West Ham,Chelsea,6,12,4,2022-09-03
+788,West Ham,Crystal Palace,7,5,6,2022-11-06
+789,West Ham,Brentford,0,2,0,2022-12-30
+790,West Ham,Leeds,3,1,0,2023-01-04
+791,West Ham,Chelsea,6,13,4,2023-02-11
+792,West Ham,Nottingham Forest,0,1,0,2023-02-25
+793,West Ham,Brighton,0,5,6,2023-03-04
+794,West Ham,Aston Villa,8,4,5,2023-03-12
+795,West Ham,Crystal Palace,6,5,5,2021-08-28
+796,West Ham,Leeds,2,0,0,2021-09-25
+797,West Ham,Brentford,0,0,0,2021-10-03
+798,West Ham,Aston Villa,5,4,5,2021-10-31
+799,West Ham,Manchester City,2,15,3,2021-11-28
+800,West Ham,Brighton,0,3,5,2021-12-01
+801,West Ham,Chelsea,5,11,4,2021-12-04
+802,West Ham,Burnley,7,4,1,2021-12-12
+803,West Ham,Watford,5,4,1,2021-12-28
+804,West Ham,Crystal Palace,6,5,6,2022-01-01
+805,West Ham,Norwich,4,1,3,2022-01-12
+806,West Ham,Leeds,3,0,0,2022-01-16
+807,West Ham,Watford,6,4,1,2022-02-08
+808,West Ham,Aston Villa,6,4,5,2022-03-13
+809,West Ham,Brentford,0,1,0,2022-04-10
+810,West Ham,Burnley,7,4,2,2022-04-17
+811,West Ham,Chelsea,6,11,4,2022-04-24
+812,West Ham,Norwich,5,1,3,2022-05-08
+813,West Ham,Manchester City,2,16,3,2022-05-15
+814,West Ham,Brighton,0,3,6,2022-05-22
+815,West Ham,Manchester City,2,14,2,2020-10-24
+816,West Ham,Sheffield Utd,0,1,1,2020-11-22
+817,West Ham,Aston Villa,3,4,5,2020-11-30
+818,West Ham,Leeds,0,0,0,2020-12-11
+819,West Ham,Crystal Palace,5,5,4,2020-12-16
+820,West Ham,Chelsea,5,9,4,2020-12-21
+821,West Ham,Brighton,0,3,3,2020-12-27
+822,West Ham,Burnley,5,4,1,2021-01-16
+823,West Ham,West Brom,4,2,8,2021-01-19
+824,West Ham,Crystal Palace,5,5,5,2021-01-26
+825,West Ham,Aston Villa,4,4,5,2021-02-03
+826,West Ham,Sheffield Utd,1,1,1,2021-02-15
+827,West Ham,Manchester City,2,14,3,2021-02-27
+828,West Ham,Leeds,1,0,0,2021-03-08
+829,West Ham,Chelsea,5,10,4,2021-04-24
+830,West Ham,Burnley,6,4,1,2021-05-03
+831,West Ham,Brighton,0,3,4,2021-05-15
+832,West Ham,West Brom,5,2,8,2021-05-19
+833,Chelsea,Leeds,3,0,1,2022-08-21
+834,Chelsea,Crystal Palace,14,4,0,2022-10-01
+835,Chelsea,Aston Villa,12,3,3,2022-10-16
+836,Chelsea,Brentford,1,1,0,2022-10-19
+837,Chelsea,Brighton,6,0,4,2022-10-29
+838,Chelsea,Nottingham Forest,0,0,0,2023-01-01
+839,Chelsea,Manchester City,9,12,3,2023-01-05
+840,Chelsea,Crystal Palace,15,4,0,2023-01-15
+841,Chelsea,Leeds,3,1,1,2023-03-04
+842,Chelsea,Crystal Palace,12,4,0,2021-08-14
+843,Chelsea,Aston Villa,10,3,3,2021-09-11
+844,Chelsea,Manchester City,9,10,3,2021-09-25
+845,Chelsea,Brentford,0,0,0,2021-10-16
+846,Chelsea,Norwich,8,0,2,2021-10-23
+847,Chelsea,Burnley,8,1,3,2021-11-06
+848,Chelsea,Watford,7,1,2,2021-12-01
+849,Chelsea,Leeds,1,0,1,2021-12-11
+850,Chelsea,Aston Villa,11,3,3,2021-12-26
+851,Chelsea,Brighton,6,0,2,2021-12-29
+852,Chelsea,Manchester City,9,11,3,2022-01-15
+853,Chelsea,Brighton,6,0,3,2022-01-18
+854,Chelsea,Crystal Palace,13,4,0,2022-02-19
+855,Chelsea,Burnley,8,1,4,2022-03-05
+856,Chelsea,Norwich,9,0,2,2022-03-10
+857,Chelsea,Brentford,1,0,0,2022-04-02
+858,Chelsea,Leeds,2,0,1,2022-05-11
+859,Chelsea,Watford,8,1,2,2022-05-22
+860,Chelsea,Brighton,5,0,1,2020-09-14
+861,Chelsea,West Brom,10,3,3,2020-09-26
+862,Chelsea,Crystal Palace,10,4,0,2020-10-03
+863,Chelsea,Burnley,6,1,3,2020-10-31
+864,Chelsea,Sheffield Utd,0,1,1,2020-11-07
+865,Chelsea,Leeds,0,0,0,2020-12-05
+866,Chelsea,Aston Villa,10,2,2,2020-12-28
+867,Chelsea,Manchester City,8,9,3,2021-01-03
+868,Chelsea,Burnley,7,1,3,2021-01-31
+869,Chelsea,Sheffield Utd,1,1,1,2021-02-07
+870,Chelsea,Leeds,1,0,0,2021-03-13
+871,Chelsea,West Brom,10,3,4,2021-04-03
+872,Chelsea,Crystal Palace,11,4,0,2021-04-10
+873,Chelsea,Brighton,6,0,1,2021-04-20
+874,Chelsea,Manchester City,8,10,3,2021-05-08
+875,Chelsea,Aston Villa,10,2,3,2021-05-23
+876,Manchester City,Crystal Palace,12,3,3,2022-08-27
+877,Manchester City,Nottingham Forest,0,0,0,2022-08-31
+878,Manchester City,Aston Villa,15,2,1,2022-09-03
+879,Manchester City,Brighton,9,1,0,2022-10-22
+880,Manchester City,Brentford,2,0,0,2022-11-12
+881,Manchester City,Leeds,2,1,1,2022-12-28
+882,Manchester City,Aston Villa,15,2,2,2023-02-12
+883,Manchester City,Nottingham Forest,1,0,0,2023-02-18
+884,Manchester City,Crystal Palace,13,3,3,2023-03-11
+885,Manchester City,Norwich,6,2,2,2021-08-21
+886,Manchester City,Burnley,9,1,2,2021-10-16
+887,Manchester City,Brighton,7,1,0,2021-10-23
+888,Manchester City,Crystal Palace,12,2,2,2021-10-30
+889,Manchester City,Aston Villa,13,2,1,2021-12-01
+890,Manchester City,Watford,10,0,0,2021-12-04
+891,Manchester City,Leeds,0,1,1,2021-12-14
+892,Manchester City,Brentford,0,0,0,2021-12-29
+893,Manchester City,Brentford,1,0,0,2022-02-09
+894,Manchester City,Norwich,7,2,2,2022-02-12
+895,Manchester City,Crystal Palace,12,3,2,2022-03-14
+896,Manchester City,Burnley,10,1,2,2022-04-02
+897,Manchester City,Brighton,8,1,0,2022-04-20
+898,Manchester City,Watford,11,0,0,2022-04-23
+899,Manchester City,Leeds,1,1,1,2022-04-30
+900,Manchester City,Aston Villa,14,2,1,2022-05-22
+901,Manchester City,Leeds,0,0,0,2020-10-03
+902,Manchester City,Sheffield Utd,2,0,0,2020-10-31
+903,Manchester City,Burnley,7,1,2,2020-11-28
+904,Manchester City,West Brom,15,0,1,2020-12-15
+905,Manchester City,Brighton,6,0,0,2021-01-13
+906,Manchester City,Crystal Palace,10,2,2,2021-01-17
+907,Manchester City,Aston Villa,11,2,1,2021-01-20
+908,Manchester City,West Brom,15,0,2,2021-01-26
+909,Manchester City,Sheffield Utd,3,0,0,2021-01-30
+910,Manchester City,Burnley,8,1,2,2021-02-03
+911,Manchester City,Leeds,0,0,1,2021-04-10
+912,Manchester City,Aston Villa,12,2,1,2021-04-21
+913,Manchester City,Crystal Palace,11,2,2,2021-05-01
+914,Manchester City,Brighton,7,0,0,2021-05-18
+915,Brighton,Leeds,2,0,2,2022-08-27
+916,Brighton,Brentford,2,0,0,2022-10-14
+917,Brighton,Nottingham Forest,0,0,0,2022-10-18
+918,Brighton,Aston Villa,1,3,2,2022-11-13
+919,Brighton,Crystal Palace,2,3,5,2023-02-11
+920,Brighton,Leeds,3,0,2,2023-03-11
+921,Brighton,Crystal Palace,2,3,6,2023-03-15
+922,Brighton,Burnley,1,2,5,2021-08-14
+923,Brighton,Watford,2,1,3,2021-08-21
+924,Brighton,Brentford,0,0,0,2021-09-11
+925,Brighton,Crystal Palace,2,3,3,2021-09-27
+926,Brighton,Norwich,2,0,0,2021-10-16
+927,Brighton,Aston Villa,1,1,2,2021-11-20
+928,Brighton,Leeds,2,0,0,2021-11-27
+929,Brighton,Brentford,1,0,0,2021-12-26
+930,Brighton,Crystal Palace,2,3,4,2022-01-14
+931,Brighton,Watford,3,1,3,2022-02-12
+932,Brighton,Burnley,2,2,5,2022-02-19
+933,Brighton,Aston Villa,1,2,2,2022-02-26
+934,Brighton,Norwich,2,0,1,2022-04-02
+935,Brighton,Leeds,2,0,1,2022-05-15
+936,Brighton,Crystal Palace,2,2,2,2020-10-18
+937,Brighton,West Brom,1,1,0,2020-10-26
+938,Brighton,Burnley,1,2,3,2020-11-06
+939,Brighton,Aston Villa,0,1,1,2020-11-21
+940,Brighton,Sheffield Utd,0,1,1,2020-12-20
+941,Brighton,Leeds,0,0,0,2021-01-16
+942,Brighton,Burnley,1,2,4,2021-02-06
+943,Brighton,Aston Villa,1,1,1,2021-02-13
+944,Brighton,Crystal Palace,2,2,3,2021-02-22
+945,Brighton,West Brom,1,1,1,2021-02-27
+946,Brighton,Sheffield Utd,0,1,2,2021-04-24
+947,Brighton,Leeds,1,0,0,2021-05-01
+948,Crystal Palace,Aston Villa,5,5,2,2022-08-20
+949,Crystal Palace,Brentford,0,0,2,2022-08-30
+950,Crystal Palace,Leeds,1,2,1,2022-10-09
+951,Crystal Palace,Nottingham Forest,0,0,0,2022-11-12
+952,Crystal Palace,Brentford,0,0,3,2023-02-18
+953,Crystal Palace,Aston Villa,6,5,2,2023-03-04
+954,Crystal Palace,Brentford,0,0,0,2021-08-21
+955,Crystal Palace,Burnley,5,6,1,2021-11-20
+956,Crystal Palace,Aston Villa,5,4,1,2021-11-27
+957,Crystal Palace,Leeds,1,1,0,2021-11-30
+958,Crystal Palace,Norwich,3,1,2,2021-12-28
+959,Crystal Palace,Norwich,4,1,2,2022-02-09
+960,Crystal Palace,Brentford,0,0,1,2022-02-12
+961,Crystal Palace,Watford,4,3,3,2022-02-23
+962,Crystal Palace,Burnley,5,6,2,2022-02-26
+963,Crystal Palace,Leeds,1,2,0,2022-04-25
+964,Crystal Palace,Watford,5,3,3,2022-05-07
+965,Crystal Palace,Aston Villa,5,5,1,2022-05-15
+966,Crystal Palace,Leeds,0,0,0,2020-11-07
+967,Crystal Palace,Burnley,5,4,1,2020-11-23
+968,Crystal Palace,West Brom,4,4,2,2020-12-06
+969,Crystal Palace,Aston Villa,4,3,1,2020-12-26
+970,Crystal Palace,Sheffield Utd,0,2,0,2021-01-02
+971,Crystal Palace,Leeds,1,0,0,2021-02-08
+972,Crystal Palace,Burnley,5,5,1,2021-02-13
+973,Crystal Palace,West Brom,5,4,2,2021-03-13
+974,Crystal Palace,Sheffield Utd,1,2,0,2021-05-08
+975,Crystal Palace,Aston Villa,4,4,1,2021-05-16
+976,Brentford,Leeds,0,1,1,2022-09-03
+977,Brentford,Aston Villa,1,0,1,2022-10-23
+978,Brentford,Nottingham Forest,0,0,0,2022-11-05
+979,Brentford,Leeds,1,1,1,2023-01-22
+980,Brentford,Aston Villa,0,0,0,2021-08-28
+981,Brentford,Burnley,0,0,0,2021-10-30
+982,Brentford,Norwich,0,0,0,2021-11-06
+983,Brentford,Leeds,0,0,0,2021-12-05
+984,Brentford,Watford,0,0,0,2021-12-10
+985,Brentford,Aston Villa,0,0,1,2022-01-02
+986,Brentford,Norwich,0,1,0,2022-03-05
+987,Brentford,Burnley,0,1,0,2022-03-12
+988,Brentford,Watford,1,0,0,2022-04-16
+989,Brentford,Leeds,0,0,1,2022-05-22
+990,Leeds,Aston Villa,1,2,1,2022-10-02
+991,Leeds,Arsenal,0,3,1,2022-10-16
+992,Leeds,Aston Villa,1,2,2,2023-01-13
+993,Leeds,Nottingham Forest,0,0,0,2023-02-05
+994,Leeds,Burnley,2,0,0,2021-08-29
+995,Leeds,Watford,0,0,0,2021-10-02
+996,Leeds,Norwich,0,0,0,2021-10-31
+997,Leeds,Arsenal,0,1,1,2021-12-18
+998,Leeds,Burnley,2,0,1,2022-01-02
+999,Leeds,Aston Villa,1,1,0,2022-02-09
+1000,Leeds,Aston Villa,1,1,1,2022-03-10
+1001,Leeds,Norwich,1,0,0,2022-03-13
+1002,Leeds,Watford,1,0,0,2022-04-09
+1003,Leeds,Arsenal,0,2,1,2022-05-08
+1004,Leeds,Sheffield Utd,0,0,0,2020-09-27
+1005,Leeds,Aston Villa,0,0,0,2020-10-23
+1006,Leeds,Arsenal,0,0,0,2020-11-22
+1007,Leeds,Burnley,0,0,0,2020-12-27
+1008,Leeds,West Brom,0,0,0,2020-12-29
+1009,Leeds,Arsenal,0,0,1,2021-02-14
+1010,Leeds,Aston Villa,1,0,0,2021-02-27
+1011,Leeds,Sheffield Utd,1,0,0,2021-04-03
+1012,Leeds,Burnley,1,0,0,2021-05-15
+1013,Leeds,West Brom,1,0,0,2021-05-23
+1014,Nottingham Forest,Aston Villa,0,0,0,2022-10-10
+1015,Aston Villa,Watford,1,3,0,2021-08-14
+1016,Aston Villa,Norwich,7,2,1,2021-12-14
+1017,Aston Villa,Watford,1,4,0,2022-02-19
+1018,Aston Villa,Norwich,8,2,1,2022-04-30
+1019,Aston Villa,Burnley,1,2,3,2022-05-07
+1020,Aston Villa,Burnley,2,2,3,2022-05-19
+1021,Aston Villa,Sheffield Utd,0,1,1,2020-09-21
+1022,Aston Villa,Burnley,1,1,2,2020-12-17
+1023,Aston Villa,West Brom,3,4,5,2020-12-20
+1024,Aston Villa,Burnley,1,1,3,2021-01-27
+1025,Aston Villa,Sheffield Utd,1,1,1,2021-03-03
+1026,Aston Villa,West Brom,4,4,5,2021-04-25
+1027,Watford,Norwich,3,1,0,2021-09-18
+1028,Watford,Norwich,4,1,0,2022-01-21
+1029,Watford,Burnley,2,5,1,2022-02-05
+1030,Watford,Burnley,2,5,2,2022-04-30
+1031,Burnley,Norwich,2,0,0,2021-10-02
+1032,Burnley,Norwich,2,0,1,2022-04-10
+1033,Burnley,West Brom,1,3,2,2020-10-19
+1034,Burnley,Sheffield Utd,0,1,1,2020-12-29
+1035,Burnley,West Brom,1,3,3,2021-02-20
+1036,Burnley,Sheffield Utd,1,1,1,2021-05-23
+1037,West Brom,Sheffield Utd,0,0,0,2020-11-28
+1038,West Brom,Sheffield Utd,1,0,0,2021-02-02
+1039,Crystal Palace,Arsenal,3,9,6,2022-08-05
+1040,Leicester,Arsenal,4,9,3,2022-08-13
+1041,Bournemouth,Arsenal,1,7,2,2022-08-20
+1042,Fulham,Arsenal,1,7,3,2022-08-27
+1043,Aston Villa,Arsenal,5,12,1,2022-08-31
+1044,Manchester United,Arsenal,10,7,7,2022-09-04
+1045,Brentford,Arsenal,1,1,0,2022-09-18
+1046,Tottenham,Arsenal,9,8,7,2022-10-01
+1047,Liverpool,Arsenal,11,5,8,2022-10-09
+1048,Manchester United,Arsenal,11,7,7,2022-10-16
+1049,Southampton,Arsenal,4,10,6,2022-10-23
+1050,Nottingham Forest,Arsenal,0,0,0,2022-10-30
+1051,Chelsea,Arsenal,11,7,6,2022-11-06
+1052,Wolves,Arsenal,3,6,3,2022-11-12
+1053,West Ham,Arsenal,2,17,3,2022-12-26
+1054,Brighton,Arsenal,4,3,3,2022-12-31
+1055,Newcastle,Arsenal,3,17,2,2023-01-03
+1056,Tottenham,Arsenal,9,9,7,2023-01-15
+1057,Manchester United,Arsenal,11,7,7,2023-01-22
+1058,Everton,Arsenal,6,13,5,2023-02-04
+1059,Brentford,Arsenal,1,2,0,2023-02-11
+1060,Manchester City,Arsenal,14,4,6,2023-02-15
+1061,Aston Villa,Arsenal,5,13,1,2023-02-18
+1062,Leicester,Arsenal,4,10,3,2023-02-25
+1063,Everton,Arsenal,7,13,5,2023-03-01
+1064,Bournemouth,Arsenal,1,8,2,2023-03-04
+1065,Fulham,Arsenal,1,8,3,2023-03-12
+1066,Crystal Palace,Arsenal,3,10,6,2023-03-19
+1067,Brentford,Arsenal,0,0,0,2021-08-13
+1068,Chelsea,Arsenal,10,6,6,2021-08-22
+1069,Manchester City,Arsenal,12,4,6,2021-08-28
+1070,Norwich,Arsenal,1,6,3,2021-09-11
+1071,Burnley,Arsenal,1,9,2,2021-09-18
+1072,Tottenham,Arsenal,8,7,7,2021-09-26
+1073,Brighton,Arsenal,3,3,2,2021-10-02
+1074,Crystal Palace,Arsenal,2,9,5,2021-10-18
+1075,Aston Villa,Arsenal,5,10,1,2021-10-22
+1076,Leicester,Arsenal,4,7,3,2021-10-30
+1077,Watford,Arsenal,2,7,1,2021-11-07
+1078,Liverpool,Arsenal,9,5,8,2021-11-20
+1079,Newcastle,Arsenal,2,16,2,2021-11-27
+1080,Manchester United,Arsenal,9,6,7,2021-12-02
+1081,Everton,Arsenal,5,12,5,2021-12-06
+1082,Southampton,Arsenal,3,9,6,2021-12-11
+1083,West Ham,Arsenal,2,15,3,2021-12-15
+1084,Manchester United,Arsenal,10,6,7,2021-12-18
+1085,Norwich,Arsenal,1,7,3,2021-12-26
+1086,Manchester City,Arsenal,13,4,6,2022-01-01
+1087,Burnley,Arsenal,1,10,2,2022-01-23
+1088,Wolves,Arsenal,3,4,3,2022-02-10
+1089,Brentford,Arsenal,1,0,0,2022-02-19
+1090,Wolves,Arsenal,3,5,3,2022-02-24
+1091,Watford,Arsenal,2,8,1,2022-03-06
+1092,Leicester,Arsenal,4,8,3,2022-03-13
+1093,Liverpool,Arsenal,10,5,8,2022-03-16
+1094,Aston Villa,Arsenal,5,11,1,2022-03-19
+1095,Crystal Palace,Arsenal,2,9,6,2022-04-04
+1096,Brighton,Arsenal,3,3,3,2022-04-09
+1097,Southampton,Arsenal,3,10,6,2022-04-16
+1098,Chelsea,Arsenal,11,6,6,2022-04-20
+1099,Manchester United,Arsenal,10,6,7,2022-04-23
+1100,West Ham,Arsenal,2,16,3,2022-05-01
+1101,Manchester United,Arsenal,10,7,7,2022-05-08
+1102,Tottenham,Arsenal,8,8,7,2022-05-12
+1103,Newcastle,Arsenal,2,17,2,2022-05-16
+1104,Everton,Arsenal,6,12,5,2022-05-22
+1105,Fulham,Arsenal,1,6,2,2020-09-12
+1106,West Ham,Arsenal,2,14,2,2020-09-19
+1107,Liverpool,Arsenal,7,5,8,2020-09-28
+1108,Sheffield Utd,Arsenal,1,0,1,2020-10-04
+1109,Manchester City,Arsenal,10,4,6,2020-10-17
+1110,Leicester,Arsenal,3,6,3,2020-10-25
+1111,Manchester United,Arsenal,9,5,6,2020-11-01
+1112,Aston Villa,Arsenal,3,10,1,2020-11-08
+1113,Manchester United,Arsenal,9,6,6,2020-11-22
+1114,Wolves,Arsenal,1,4,3,2020-11-29
+1115,Tottenham,Arsenal,7,6,7,2020-12-06
+1116,Burnley,Arsenal,0,9,1,2020-12-13
+1117,Southampton,Arsenal,3,8,5,2020-12-16
+1118,Everton,Arsenal,3,12,5,2020-12-19
+1119,Chelsea,Arsenal,10,4,6,2020-12-26
+1120,Brighton,Arsenal,3,1,2,2020-12-29
+1121,West Brom,Arsenal,3,10,3,2021-01-02
+1122,Crystal Palace,Arsenal,2,8,4,2021-01-14
+1123,Newcastle,Arsenal,2,14,2,2021-01-18
+1124,Southampton,Arsenal,3,8,6,2021-01-26
+1125,Manchester United,Arsenal,9,6,6,2021-01-30
+1126,Wolves,Arsenal,2,4,3,2021-02-02
+1127,Aston Villa,Arsenal,4,10,1,2021-02-06
+1128,Manchester United,Arsenal,9,6,7,2021-02-14
+1129,Manchester City,Arsenal,11,4,6,2021-02-21
+1130,Leicester,Arsenal,4,6,3,2021-02-28
+1131,Burnley,Arsenal,1,9,1,2021-03-06
+1132,Tottenham,Arsenal,8,6,7,2021-03-14
+1133,West Ham,Arsenal,2,15,2,2021-03-21
+1134,Liverpool,Arsenal,8,5,8,2021-04-03
+1135,Sheffield Utd,Arsenal,1,1,1,2021-04-11
+1136,Fulham,Arsenal,1,7,2,2021-04-18
+1137,Everton,Arsenal,4,12,5,2021-04-23
+1138,Newcastle,Arsenal,2,15,2,2021-05-02
+1139,West Brom,Arsenal,3,11,3,2021-05-09
+1140,Chelsea,Arsenal,10,5,6,2021-05-12
+1141,Crystal Palace,Arsenal,2,8,5,2021-05-19
+1142,Brighton,Arsenal,3,2,2,2021-05-23
+1143,Brighton,Manchester United,3,7,0,2022-08-07
+1144,Brentford,Manchester United,0,2,0,2022-08-13
+1145,Liverpool,Manchester United,8,9,7,2022-08-22
+1146,Southampton,Manchester United,2,9,9,2022-08-27
+1147,Leicester,Manchester United,3,8,5,2022-09-01
+1148,Manchester City,Manchester United,12,8,4,2022-10-02
+1149,Everton,Manchester United,6,10,8,2022-10-09
+1150,Newcastle,Manchester United,4,13,5,2022-10-16
+1151,Tottenham,Manchester United,7,12,5,2022-10-19
+1152,Chelsea,Manchester United,6,7,11,2022-10-22
+1153,West Ham,Manchester United,3,13,6,2022-10-30
+1154,Aston Villa,Manchester United,1,13,4,2022-11-06
+1155,Fulham,Manchester United,0,9,3,2022-11-13
+1156,Nottingham Forest,Manchester United,0,0,0,2022-12-27
+1157,Wolves,Manchester United,3,6,3,2022-12-31
+1158,Bournemouth,Manchester United,2,7,1,2023-01-03
+1159,Manchester City,Manchester United,13,8,4,2023-01-14
+1160,Crystal Palace,Manchester United,3,12,3,2023-01-18
+1161,Crystal Palace,Manchester United,3,12,4,2023-02-04
+1162,Manchester United,Manchester United,0,0,0,2023-02-08
+1163,Manchester United,Manchester United,0,0,0,2023-02-12
+1164,Leicester,Manchester United,3,9,5,2023-02-19
+1165,Liverpool,Manchester United,8,10,7,2023-03-05
+1166,Southampton,Manchester United,2,10,9,2023-03-12
+1167,Brighton,Manchester United,4,7,0,2023-03-19
+1168,Manchester United,Manchester United,0,0,0,2021-08-14
+1169,Southampton,Manchester United,2,9,7,2021-08-22
+1170,Wolves,Manchester United,2,5,3,2021-08-29
+1171,Newcastle,Manchester United,4,12,4,2021-09-11
+1172,West Ham,Manchester United,3,11,6,2021-09-19
+1173,Aston Villa,Manchester United,0,13,3,2021-09-25
+1174,Everton,Manchester United,5,10,7,2021-10-02
+1175,Leicester,Manchester United,2,8,4,2021-10-16
+1176,Liverpool,Manchester United,6,9,7,2021-10-24
+1177,Leeds,Manchester United,0,3,1,2023-02-08
+1178,Leeds,Manchester United,0,3,2,2023-02-12
+1179,Leeds,Manchester United,0,1,1,2021-08-14
+1180,Tottenham,Manchester United,7,10,5,2021-10-30
+1181,Manchester City,Manchester United,10,8,4,2021-11-06
+1182,Watford,Manchester United,2,8,0,2021-11-20
+1183,Chelsea,Manchester United,6,7,9,2021-11-28
+1184,Crystal Palace,Manchester United,2,11,3,2021-12-05
+1185,Norwich,Manchester United,2,8,0,2021-12-11
+1186,Newcastle,Manchester United,4,13,4,2021-12-27
+1187,Burnley,Manchester United,1,7,4,2021-12-30
+1188,Wolves,Manchester United,2,6,3,2022-01-03
+1189,Aston Villa,Manchester United,1,13,3,2022-01-15
+1190,Brentford,Manchester United,0,0,0,2022-01-19
+1191,West Ham,Manchester United,3,12,6,2022-01-22
+1192,Burnley,Manchester United,1,8,4,2022-02-08
+1193,Southampton,Manchester United,2,9,8,2022-02-12
+1194,Brighton,Manchester United,2,6,0,2022-02-15
+1195,Leeds,Manchester United,0,2,1,2022-02-20
+1196,Watford,Manchester United,3,8,0,2022-02-26
+1197,Manchester City,Manchester United,11,8,4,2022-03-06
+1198,Tottenham,Manchester United,7,11,5,2022-03-12
+1199,Leicester,Manchester United,3,8,4,2022-04-02
+1200,Everton,Manchester United,5,10,8,2022-04-09
+1201,Norwich,Manchester United,2,9,0,2022-04-16
+1202,Liverpool,Manchester United,7,9,7,2022-04-19
+1203,Chelsea,Manchester United,6,7,10,2022-04-28
+1204,Brentford,Manchester United,0,1,0,2022-05-02
+1205,Brighton,Manchester United,2,7,0,2022-05-07
+1206,Crystal Palace,Manchester United,2,12,3,2022-05-22
+1207,Crystal Palace,Manchester United,1,11,2,2020-09-19
+1208,Brighton,Manchester United,2,4,0,2020-09-26
+1209,Tottenham,Manchester United,6,9,5,2020-10-04
+1210,Newcastle,Manchester United,4,10,4,2020-10-17
+1211,Chelsea,Manchester United,6,7,7,2020-10-24
+1212,Everton,Manchester United,5,9,6,2020-11-07
+1213,West Brom,Manchester United,4,8,4,2020-11-21
+1214,Southampton,Manchester United,2,7,7,2020-11-29
+1215,West Ham,Manchester United,3,9,6,2020-12-05
+1216,Manchester City,Manchester United,10,7,3,2020-12-12
+1217,Sheffield Utd,Manchester United,0,1,1,2020-12-17
+1218,Leeds,Manchester United,0,0,0,2020-12-20
+1219,Leicester,Manchester United,1,8,3,2020-12-26
+1220,Wolves,Manchester United,2,3,3,2020-12-29
+1221,Aston Villa,Manchester United,0,11,3,2021-01-01
+1222,Burnley,Manchester United,1,5,4,2021-01-12
+1223,Liverpool,Manchester United,5,9,6,2021-01-17
+1224,Fulham,Manchester United,0,8,2,2021-01-20
+1225,Sheffield Utd,Manchester United,0,2,1,2021-01-27
+1226,Southampton,Manchester United,2,8,7,2021-02-02
+1227,Everton,Manchester United,5,10,6,2021-02-06
+1228,West Brom,Manchester United,4,9,4,2021-02-14
+1229,Newcastle,Manchester United,4,11,4,2021-02-21
+1230,Chelsea,Manchester United,6,7,8,2021-02-28
+1231,Crystal Palace,Manchester United,2,11,2,2021-03-03
+1232,Manchester City,Manchester United,10,7,4,2021-03-07
+1233,West Ham,Manchester United,3,10,6,2021-03-14
+1234,Brighton,Manchester United,2,5,0,2021-04-04
+1235,Tottenham,Manchester United,7,9,5,2021-04-11
+1236,Burnley,Manchester United,1,6,4,2021-04-18
+1237,Leeds,Manchester United,0,1,0,2021-04-25
+1238,Aston Villa,Manchester United,0,12,3,2021-05-09
+1239,Leicester,Manchester United,1,8,4,2021-05-11
+1240,Liverpool,Manchester United,5,9,7,2021-05-13
+1241,Fulham,Manchester United,0,9,2,2021-05-18
+1242,Wolves,Manchester United,2,4,3,2021-05-23
+1243,Nottingham Forest,Newcastle,0,0,0,2022-08-06
+1244,Brighton,Newcastle,4,1,5,2022-08-13
+1245,Manchester City,Newcastle,19,1,2,2022-08-21
+1246,Wolves,Newcastle,2,3,7,2022-08-28
+1247,Liverpool,Newcastle,12,4,6,2022-08-31
+1248,Crystal Palace,Newcastle,4,7,5,2022-09-03
+1249,Bournemouth,Newcastle,2,4,2,2022-09-17
+1250,Fulham,Newcastle,4,5,3,2022-10-01
+1251,Brentford,Newcastle,0,1,1,2022-10-08
+1252,Everton,Newcastle,12,7,3,2022-10-19
+1253,Tottenham,Newcastle,12,6,4,2022-10-23
+1254,Aston Villa,Newcastle,4,7,7,2022-10-29
+1255,Southampton,Newcastle,6,7,5,2022-11-06
+1256,Chelsea,Newcastle,13,6,3,2022-11-12
+1257,Leicester,Newcastle,9,5,0,2022-12-26
+1258,Leeds,Newcastle,2,1,1,2022-12-31
+1259,Fulham,Newcastle,4,6,3,2023-01-15
+1260,Crystal Palace,Newcastle,4,7,6,2023-01-21
+1261,West Ham,Newcastle,6,10,4,2023-02-04
+1262,Bournemouth,Newcastle,2,4,3,2023-02-11
+1263,Liverpool,Newcastle,13,4,6,2023-02-18
+1264,Manchester City,Newcastle,19,1,3,2023-03-04
+1265,Wolves,Newcastle,2,3,8,2023-03-12
+1266,Nottingham Forest,Newcastle,0,1,0,2023-03-17
+1267,West Ham,Newcastle,5,10,3,2021-08-15
+1268,Aston Villa,Newcastle,3,6,7,2021-08-21
+1269,Southampton,Newcastle,6,6,4,2021-08-28
+1270,Leeds,Newcastle,2,0,0,2021-09-17
+1271,Watford,Newcastle,5,1,2,2021-09-25
+1272,Wolves,Newcastle,1,2,7,2021-10-02
+1273,Tottenham,Newcastle,10,6,4,2021-10-17
+1274,Crystal Palace,Newcastle,4,6,4,2021-10-23
+1275,Chelsea,Newcastle,11,6,3,2021-10-30
+1276,Brighton,Newcastle,4,0,4,2021-11-06
+1277,Brentford,Newcastle,0,0,0,2021-11-20
+1278,Norwich,Newcastle,3,4,3,2021-11-30
+1279,Burnley,Newcastle,2,4,4,2021-12-04
+1280,Leicester,Newcastle,8,4,0,2021-12-12
+1281,Liverpool,Newcastle,10,4,6,2021-12-16
+1282,Manchester City,Newcastle,17,1,2,2021-12-19
+1283,Watford,Newcastle,5,1,3,2022-01-15
+1284,Leeds,Newcastle,2,0,1,2022-01-22
+1285,Everton,Newcastle,11,6,3,2022-02-08
+1286,Aston Villa,Newcastle,4,6,7,2022-02-13
+1287,West Ham,Newcastle,6,10,3,2022-02-19
+1288,Brentford,Newcastle,0,0,1,2022-02-26
+1289,Brighton,Newcastle,4,0,5,2022-03-05
+1290,Southampton,Newcastle,6,6,5,2022-03-10
+1291,Chelsea,Newcastle,12,6,3,2022-03-13
+1292,Everton,Newcastle,11,7,3,2022-03-17
+1293,Tottenham,Newcastle,11,6,4,2022-04-03
+1294,Wolves,Newcastle,2,2,7,2022-04-08
+1295,Leicester,Newcastle,9,4,0,2022-04-17
+1296,Crystal Palace,Newcastle,4,6,5,2022-04-20
+1297,Norwich,Newcastle,3,4,4,2022-04-23
+1298,Liverpool,Newcastle,11,4,6,2022-04-30
+1299,Manchester City,Newcastle,18,1,2,2022-05-08
+1300,Burnley,Newcastle,2,5,4,2022-05-22
+1301,West Ham,Newcastle,5,8,3,2020-09-12
+1302,Brighton,Newcastle,2,0,4,2020-09-20
+1303,Tottenham,Newcastle,10,6,2,2020-09-27
+1304,Burnley,Newcastle,2,2,4,2020-10-03
+1305,Wolves,Newcastle,1,2,5,2020-10-25
+1306,Everton,Newcastle,11,4,3,2020-11-01
+1307,Southampton,Newcastle,5,5,4,2020-11-06
+1308,Chelsea,Newcastle,9,6,3,2020-11-21
+1309,Crystal Palace,Newcastle,3,5,4,2020-11-27
+1310,West Brom,Newcastle,5,5,3,2020-12-12
+1311,Leeds,Newcastle,0,0,0,2020-12-16
+1312,Fulham,Newcastle,4,4,2,2020-12-19
+1313,Manchester City,Newcastle,15,1,2,2020-12-26
+1314,Liverpool,Newcastle,10,4,4,2020-12-30
+1315,Leicester,Newcastle,7,3,0,2021-01-03
+1316,Sheffield Utd,Newcastle,0,2,0,2021-01-12
+1317,Aston Villa,Newcastle,2,6,6,2021-01-23
+1318,Leeds,Newcastle,1,0,0,2021-01-26
+1319,Everton,Newcastle,11,5,3,2021-01-30
+1320,Crystal Palace,Newcastle,3,6,4,2021-02-02
+1321,Southampton,Newcastle,6,5,4,2021-02-06
+1322,Chelsea,Newcastle,10,6,3,2021-02-15
+1323,Wolves,Newcastle,1,2,6,2021-02-27
+1324,West Brom,Newcastle,5,6,3,2021-03-07
+1325,Aston Villa,Newcastle,3,6,6,2021-03-12
+1326,Brighton,Newcastle,3,0,4,2021-03-20
+1327,Tottenham,Newcastle,10,6,3,2021-04-04
+1328,Burnley,Newcastle,2,3,4,2021-04-11
+1329,West Ham,Newcastle,5,9,3,2021-04-17
+1330,Liverpool,Newcastle,10,4,5,2021-04-24
+1331,Leicester,Newcastle,8,3,0,2021-05-07
+1332,Manchester City,Newcastle,16,1,2,2021-05-14
+1333,Sheffield Utd,Newcastle,1,2,0,2021-05-19
+1334,Fulham,Newcastle,4,4,3,2021-05-23
+1335,Aston Villa,Bournemouth,1,3,0,2022-08-06
+1336,Manchester City,Bournemouth,10,0,0,2022-08-13
+1337,Liverpool,Bournemouth,8,1,1,2022-08-27
+1338,Wolves,Bournemouth,3,0,1,2022-08-31
+1339,Nottingham Forest,Bournemouth,0,0,0,2022-09-03
+1340,Brentford,Bournemouth,0,0,0,2022-10-01
+1341,Leicester,Bournemouth,2,3,5,2022-10-08
+1342,Fulham,Bournemouth,1,1,0,2022-10-15
+1343,Southampton,Bournemouth,4,2,4,2022-10-19
+1344,West Ham,Bournemouth,3,4,3,2022-10-24
+1345,Tottenham,Bournemouth,7,1,2,2022-10-29
+1346,Leeds,Bournemouth,0,0,0,2022-11-05
+1347,Everton,Bournemouth,4,4,2,2022-11-12
+1348,Chelsea,Bournemouth,5,4,1,2022-12-27
+1349,Crystal Palace,Bournemouth,4,2,4,2022-12-31
+1350,Brentford,Bournemouth,0,0,1,2023-01-14
+1351,Nottingham Forest,Bournemouth,0,1,0,2023-01-21
+1352,Brighton,Bournemouth,1,4,1,2023-02-04
+1353,Wolves,Bournemouth,3,0,2,2023-02-18
+1354,Manchester City,Bournemouth,11,0,0,2023-02-25
+1355,Liverpool,Bournemouth,9,1,1,2023-03-11
+1356,Aston Villa,Bournemouth,1,4,0,2023-03-18
+1357,Liverpool,Fulham,8,3,1,2022-08-06
+1358,Wolves,Fulham,4,2,2,2022-08-13
+1359,Brentford,Fulham,0,0,0,2022-08-20
+1360,Brighton,Fulham,0,1,3,2022-08-30
+1361,Tottenham,Fulham,10,1,1,2022-09-03
+1362,Nottingham Forest,Fulham,0,0,0,2022-09-16
+1363,West Ham,Fulham,6,2,2,2022-10-09
+1364,Aston Villa,Fulham,3,3,4,2022-10-20
+1365,Leeds,Fulham,2,0,0,2022-10-23
+1366,Everton,Fulham,8,2,2,2022-10-29
+1367,Manchester City,Fulham,10,0,2,2022-11-05
+1368,Crystal Palace,Fulham,3,1,2,2022-12-26
+1369,Southampton,Fulham,4,1,3,2022-12-31
+1370,Leicester,Fulham,2,1,1,2023-01-03
+1371,Chelsea,Fulham,8,0,4,2023-01-12
+1372,Tottenham,Fulham,11,1,1,2023-01-23
+1373,Chelsea,Fulham,8,1,4,2023-02-03
+1374,Nottingham Forest,Fulham,0,1,0,2023-02-11
+1375,Brighton,Fulham,0,2,3,2023-02-18
+1376,Wolves,Fulham,4,2,3,2023-02-24
+1377,Brentford,Fulham,0,1,0,2023-03-06
+1378,Leeds,Fulham,0,0,0,2020-09-19
+1379,Aston Villa,Fulham,1,3,4,2020-09-28
+1380,Wolves,Fulham,2,2,2,2020-10-04
+1381,Sheffield Utd,Fulham,0,0,0,2020-10-18
+1382,Crystal Palace,Fulham,2,1,1,2020-10-24
+1383,West Brom,Fulham,1,3,4,2020-11-02
+1384,West Ham,Fulham,5,2,1,2020-11-07
+1385,Everton,Fulham,7,1,2,2020-11-22
+1386,Leicester,Fulham,1,0,1,2020-11-30
+1387,Manchester City,Fulham,8,0,2,2020-12-05
+1388,Liverpool,Fulham,8,2,0,2020-12-13
+1389,Brighton,Fulham,0,1,1,2020-12-16
+1390,Southampton,Fulham,3,1,2,2020-12-26
+1391,Tottenham,Fulham,9,1,0,2021-01-13
+1392,Chelsea,Fulham,6,0,4,2021-01-16
+1393,Brighton,Fulham,0,1,2,2021-01-27
+1394,West Brom,Fulham,1,4,4,2021-01-30
+1395,Leicester,Fulham,1,1,1,2021-02-03
+1396,West Ham,Fulham,6,2,1,2021-02-06
+1397,Everton,Fulham,8,1,2,2021-02-14
+1398,Burnley,Fulham,1,1,0,2021-02-17
+1399,Sheffield Utd,Fulham,0,0,1,2021-02-20
+1400,Crystal Palace,Fulham,3,1,1,2021-02-28
+1401,Tottenham,Fulham,9,1,1,2021-03-04
+1402,Liverpool,Fulham,8,2,1,2021-03-07
+1403,Manchester City,Fulham,9,0,2,2021-03-13
+1404,Leeds,Fulham,1,0,0,2021-03-19
+1405,Aston Villa,Fulham,2,3,4,2021-04-04
+1406,Wolves,Fulham,3,2,2,2021-04-09
+1407,Chelsea,Fulham,7,0,4,2021-05-01
+1408,Burnley,Fulham,1,1,1,2021-05-10
+1409,Southampton,Fulham,3,1,3,2021-05-15
+1410,Leeds,Wolves,1,2,1,2022-08-06
+1411,Tottenham,Wolves,6,3,3,2022-08-20
+1412,Southampton,Wolves,1,5,2,2022-09-03
+1413,Manchester City,Wolves,8,3,1,2022-09-17
+1414,West Ham,Wolves,4,5,1,2022-10-01
+1415,Chelsea,Wolves,5,3,4,2022-10-08
+1416,Nottingham Forest,Wolves,0,0,0,2022-10-15
+1417,Crystal Palace,Wolves,4,3,1,2022-10-18
+1418,Leicester,Wolves,3,2,3,2022-10-23
+1419,Brentford,Wolves,1,1,0,2022-10-29
+1420,Brighton,Wolves,2,2,4,2022-11-05
+1421,Everton,Wolves,5,4,3,2022-12-26
+1422,Aston Villa,Wolves,3,5,2,2023-01-04
+1423,West Ham,Wolves,5,5,1,2023-01-14
+1424,Manchester City,Wolves,9,3,1,2023-01-22
+1425,Liverpool,Wolves,11,1,0,2023-02-04
+1426,Southampton,Wolves,1,6,2,2023-02-11
+1427,Liverpool,Wolves,11,2,0,2023-03-01
+1428,Tottenham,Wolves,7,3,3,2023-03-04
+1429,Leeds,Wolves,2,2,1,2023-03-18
+1430,Leicester,Wolves,2,1,3,2021-08-14
+1431,Tottenham,Wolves,5,2,3,2021-08-22
+1432,Watford,Wolves,2,2,0,2021-09-11
+1433,Brentford,Wolves,0,0,0,2021-09-18
+1434,Southampton,Wolves,1,3,2,2021-09-26
+1435,Aston Villa,Wolves,3,3,2,2021-10-16
+1436,Leeds,Wolves,0,2,0,2021-10-23
+1437,Everton,Wolves,5,2,3,2021-11-01
+1438,Crystal Palace,Wolves,2,3,1,2021-11-06
+1439,West Ham,Wolves,3,4,1,2021-11-20
+1440,Norwich,Wolves,1,2,1,2021-11-27
+1441,Burnley,Wolves,3,1,2,2021-12-01
+1442,Liverpool,Wolves,9,1,0,2021-12-04
+1443,Manchester City,Wolves,6,3,1,2021-12-11
+1444,Brighton,Wolves,1,1,4,2021-12-15
+1445,Chelsea,Wolves,5,3,2,2021-12-19
+1446,Southampton,Wolves,1,4,2,2022-01-15
+1447,Brentford,Wolves,1,0,0,2022-01-22
+1448,Tottenham,Wolves,6,2,3,2022-02-13
+1449,Leicester,Wolves,3,1,3,2022-02-20
+1450,West Ham,Wolves,3,5,1,2022-02-27
+1451,Crystal Palace,Wolves,3,3,1,2022-03-05
+1452,Watford,Wolves,2,3,0,2022-03-10
+1453,Everton,Wolves,5,3,3,2022-03-13
+1454,Leeds,Wolves,0,2,1,2022-03-18
+1455,Aston Villa,Wolves,3,4,2,2022-04-02
+1456,Burnley,Wolves,3,1,3,2022-04-24
+1457,Brighton,Wolves,1,2,4,2022-04-30
+1458,Chelsea,Wolves,5,3,3,2022-05-07
+1459,Manchester City,Wolves,7,3,1,2022-05-11
+1460,Norwich,Wolves,1,2,2,2022-05-15
+1461,Liverpool,Wolves,10,1,0,2022-05-22
+1462,Sheffield Utd,Wolves,1,0,1,2020-09-14
+1463,Manchester City,Wolves,4,3,1,2020-09-21
+1464,West Ham,Wolves,1,4,1,2020-09-27
+1465,Leeds,Wolves,0,0,0,2020-10-19
+1466,Crystal Palace,Wolves,1,2,1,2020-10-30
+1467,Leicester,Wolves,1,1,2,2020-11-08
+1468,Southampton,Wolves,1,2,1,2020-11-23
+1469,Liverpool,Wolves,7,1,0,2020-12-06
+1470,Aston Villa,Wolves,2,3,1,2020-12-12
+1471,Chelsea,Wolves,5,2,1,2020-12-15
+1472,Burnley,Wolves,1,1,2,2020-12-21
+1473,Tottenham,Wolves,4,2,2,2020-12-27
+1474,Brighton,Wolves,1,0,3,2021-01-02
+1475,Everton,Wolves,3,2,3,2021-01-12
+1476,West Brom,Wolves,2,1,1,2021-01-16
+1477,Chelsea,Wolves,5,3,1,2021-01-27
+1478,Crystal Palace,Wolves,1,3,1,2021-01-30
+1479,Leicester,Wolves,2,1,2,2021-02-07
+1480,Southampton,Wolves,1,2,2,2021-02-14
+1481,Leeds,Wolves,0,1,0,2021-02-19
+1482,Manchester City,Wolves,5,3,1,2021-03-02
+1483,Aston Villa,Wolves,3,3,1,2021-03-06
+1484,Liverpool,Wolves,8,1,0,2021-03-15
+1485,West Ham,Wolves,2,4,1,2021-04-05
+1486,Sheffield Utd,Wolves,1,1,1,2021-04-17
+1487,Burnley,Wolves,2,1,2,2021-04-25
+1488,West Brom,Wolves,3,1,1,2021-05-03
+1489,Brighton,Wolves,1,0,4,2021-05-09
+1490,Tottenham,Wolves,4,2,3,2021-05-16
+1491,Everton,Wolves,4,2,3,2021-05-19
+1492,Crystal Palace,Liverpool,4,13,1,2022-08-15
+1493,Everton,Liverpool,2,10,12,2022-09-03
+1494,Brighton,Liverpool,1,7,2,2022-10-01
+1495,Manchester City,Liverpool,8,8,8,2022-10-16
+1496,West Ham,Liverpool,5,14,3,2022-10-19
+1497,Nottingham Forest,Liverpool,0,0,0,2022-10-22
+1498,Leeds,Liverpool,0,3,1,2022-10-29
+1499,Tottenham,Liverpool,5,12,7,2022-11-06
+1500,Southampton,Liverpool,4,13,3,2022-11-12
+1501,Aston Villa,Liverpool,3,12,2,2022-12-26
+1502,Leicester,Liverpool,4,10,2,2022-12-30
+1503,Brentford,Liverpool,0,1,1,2023-01-02
+1504,Brighton,Liverpool,1,7,3,2023-01-14
+1505,Chelsea,Liverpool,5,10,9,2023-01-21
+1506,Everton,Liverpool,2,10,13,2023-02-13
+1507,Crystal Palace,Liverpool,4,13,2,2023-02-25
+1508,Norwich,Liverpool,0,8,2,2021-08-14
+1509,Burnley,Liverpool,2,8,2,2021-08-21
+1510,Chelsea,Liverpool,5,10,7,2021-08-28
+1511,Leeds,Liverpool,0,1,1,2021-09-12
+1512,Crystal Palace,Liverpool,4,11,1,2021-09-18
+1513,Brentford,Liverpool,0,0,0,2021-09-25
+1514,Manchester City,Liverpool,8,8,6,2021-10-03
+1515,Watford,Liverpool,2,7,1,2021-10-16
+1516,Brighton,Liverpool,1,6,1,2021-10-30
+1517,West Ham,Liverpool,4,13,3,2021-11-07
+1518,Southampton,Liverpool,4,11,3,2021-11-27
+1519,Everton,Liverpool,2,8,12,2021-12-01
+1520,Aston Villa,Liverpool,3,10,2,2021-12-11
+1521,Tottenham,Liverpool,5,12,5,2021-12-19
+1522,Leicester,Liverpool,3,9,2,2021-12-28
+1523,Chelsea,Liverpool,5,10,8,2022-01-02
+1524,Brentford,Liverpool,0,0,1,2022-01-16
+1525,Crystal Palace,Liverpool,4,12,1,2022-01-23
+1526,Leicester,Liverpool,4,9,2,2022-02-10
+1527,Burnley,Liverpool,2,9,2,2022-02-13
+1528,Norwich,Liverpool,0,9,2,2022-02-19
+1529,Leeds,Liverpool,0,2,1,2022-02-23
+1530,West Ham,Liverpool,5,13,3,2022-03-05
+1531,Brighton,Liverpool,1,6,2,2022-03-12
+1532,Watford,Liverpool,2,8,1,2022-04-02
+1533,Manchester City,Liverpool,8,8,7,2022-04-10
+1534,Everton,Liverpool,2,9,12,2022-04-24
+1535,Tottenham,Liverpool,5,12,6,2022-05-07
+1536,Aston Villa,Liverpool,3,11,2,2022-05-10
+1537,Southampton,Liverpool,4,12,3,2022-05-17
+1538,Leeds,Liverpool,0,0,0,2020-09-12
+1539,Chelsea,Liverpool,4,9,7,2020-09-20
+1540,Aston Villa,Liverpool,2,9,2,2020-10-04
+1541,Everton,Liverpool,1,8,11,2020-10-17
+1542,Sheffield Utd,Liverpool,0,2,0,2020-10-24
+1543,West Ham,Liverpool,4,11,3,2020-10-31
+1544,Manchester City,Liverpool,7,8,5,2020-11-08
+1545,Leicester,Liverpool,2,8,2,2020-11-22
+1546,Brighton,Liverpool,0,6,0,2020-11-28
+1547,Tottenham,Liverpool,5,10,5,2020-12-16
+1548,Crystal Palace,Liverpool,4,9,1,2020-12-19
+1549,West Brom,Liverpool,4,6,6,2020-12-27
+1550,Southampton,Liverpool,3,10,3,2021-01-04
+1551,Burnley,Liverpool,1,7,2,2021-01-21
+1552,Tottenham,Liverpool,5,11,5,2021-01-28
+1553,West Ham,Liverpool,4,12,3,2021-01-31
+1554,Brighton,Liverpool,0,6,1,2021-02-03
+1555,Manchester City,Liverpool,7,8,6,2021-02-07
+1556,Leicester,Liverpool,2,9,2,2021-02-13
+1557,Everton,Liverpool,1,8,12,2021-02-20
+1558,Sheffield Utd,Liverpool,0,3,0,2021-02-28
+1559,Chelsea,Liverpool,4,10,7,2021-03-04
+1560,Aston Villa,Liverpool,3,9,2,2021-04-10
+1561,Leeds,Liverpool,0,1,0,2021-04-19
+1562,Southampton,Liverpool,4,10,3,2021-05-08
+1563,West Brom,Liverpool,4,6,7,2021-05-16
+1564,Burnley,Liverpool,2,7,2,2021-05-19
+1565,Crystal Palace,Liverpool,4,10,1,2021-05-23
+1566,Tottenham,Southampton,13,4,3,2022-08-06
+1567,Leeds,Southampton,2,1,1,2022-08-13
+1568,Leicester,Southampton,7,4,5,2022-08-20
+1569,Chelsea,Southampton,11,3,6,2022-08-30
+1570,Aston Villa,Southampton,3,8,3,2022-09-16
+1571,Everton,Southampton,9,7,4,2022-10-01
+1572,Manchester City,Southampton,13,3,4,2022-10-08
+1573,West Ham,Southampton,10,5,5,2022-10-16
+1574,Crystal Palace,Southampton,5,10,3,2022-10-29
+1575,Brighton,Southampton,1,3,6,2022-12-26
+1576,Nottingham Forest,Southampton,0,0,0,2023-01-04
+1577,Everton,Southampton,10,7,4,2023-01-14
+1578,Aston Villa,Southampton,4,8,3,2023-01-21
+1579,Brentford,Southampton,1,1,0,2023-02-04
+1580,Chelsea,Southampton,11,4,6,2023-02-18
+1581,Leeds,Southampton,2,1,2,2023-02-25
+1582,Leicester,Southampton,7,5,5,2023-03-04
+1583,Brentford,Southampton,2,1,0,2023-03-15
+1584,Tottenham,Southampton,14,4,3,2023-03-18
+1585,Everton,Southampton,8,6,4,2021-08-14
+1586,West Ham,Southampton,10,4,4,2021-09-11
+1587,Manchester City,Southampton,13,3,2,2021-09-18
+1588,Chelsea,Southampton,9,3,6,2021-10-02
+1589,Leeds,Southampton,2,0,0,2021-10-16
+1590,Burnley,Southampton,5,4,3,2021-10-23
+1591,Watford,Southampton,1,4,5,2021-10-30
+1592,Aston Villa,Southampton,2,7,3,2021-11-05
+1593,Norwich,Southampton,2,4,2,2021-11-20
+1594,Leicester,Southampton,6,4,4,2021-12-01
+1595,Brighton,Southampton,1,3,4,2021-12-04
+1596,Crystal Palace,Southampton,4,10,2,2021-12-15
+1597,West Ham,Southampton,10,4,5,2021-12-26
+1598,Tottenham,Southampton,13,3,2,2021-12-28
+1599,Brentford,Southampton,0,0,0,2022-01-11
+1600,Manchester City,Southampton,13,3,3,2022-01-22
+1601,Tottenham,Southampton,13,3,3,2022-02-09
+1602,Everton,Southampton,9,6,4,2022-02-19
+1603,Norwich,Southampton,3,4,2,2022-02-25
+1604,Aston Villa,Southampton,2,8,3,2022-03-05
+1605,Watford,Southampton,1,5,5,2022-03-13
+1606,Leeds,Southampton,2,1,0,2022-04-02
+1607,Chelsea,Southampton,10,3,6,2022-04-09
+1608,Burnley,Southampton,5,4,4,2022-04-21
+1609,Brighton,Southampton,1,3,5,2022-04-24
+1610,Crystal Palace,Southampton,4,10,3,2022-04-30
+1611,Brentford,Southampton,0,1,0,2022-05-07
+1612,Leicester,Southampton,6,4,5,2022-05-22
+1613,Crystal Palace,Southampton,3,9,2,2020-09-12
+1614,Tottenham,Southampton,11,3,2,2020-09-20
+1615,Burnley,Southampton,5,2,3,2020-09-26
+1616,West Brom,Southampton,4,6,2,2020-10-04
+1617,Chelsea,Southampton,9,3,4,2020-10-17
+1618,Everton,Southampton,7,5,4,2020-10-25
+1619,Aston Villa,Southampton,1,6,3,2020-11-01
+1620,Brighton,Southampton,0,2,4,2020-12-07
+1621,Sheffield Utd,Southampton,0,2,0,2020-12-13
+1622,Manchester City,Southampton,11,3,2,2020-12-19
+1623,West Ham,Southampton,9,4,3,2020-12-29
+1624,Leicester,Southampton,5,4,3,2021-01-16
+1625,Aston Villa,Southampton,1,7,3,2021-01-30
+1626,Chelsea,Southampton,9,3,5,2021-02-20
+1627,Leeds,Southampton,0,0,0,2021-02-23
+1628,Everton,Southampton,7,6,4,2021-03-01
+1629,Sheffield Utd,Southampton,0,3,0,2021-03-06
+1630,Manchester City,Southampton,12,3,2,2021-03-10
+1631,Brighton,Southampton,0,3,4,2021-03-14
+1632,Burnley,Southampton,5,3,3,2021-04-04
+1633,West Brom,Southampton,4,7,2,2021-04-12
+1634,Tottenham,Southampton,12,3,2,2021-04-21
+1635,Leicester,Southampton,6,4,3,2021-04-30
+1636,Crystal Palace,Southampton,4,9,2,2021-05-11
+1637,Leeds,Southampton,1,0,0,2021-05-18
+1638,West Ham,Southampton,9,4,4,2021-05-23
+1639,Chelsea,Everton,11,7,5,2022-08-06
+1640,Aston Villa,Everton,6,6,6,2022-08-13
+1641,Nottingham Forest,Everton,0,0,0,2022-08-20
+1642,Brentford,Everton,2,0,0,2022-08-27
+1643,Leeds,Everton,1,2,1,2022-08-30
+1644,West Ham,Everton,6,11,5,2022-09-18
+1645,Tottenham,Everton,10,4,10,2022-10-15
+1646,Crystal Palace,Everton,3,7,8,2022-10-22
+1647,Leicester,Everton,5,7,4,2022-11-05
+1648,Manchester City,Everton,14,5,5,2022-12-31
+1649,Brighton,Everton,3,5,2,2023-01-03
+1650,West Ham,Everton,6,12,5,2023-01-21
+1651,Leeds,Everton,1,2,2,2023-02-18
+1652,Aston Villa,Everton,7,6,6,2023-02-25
+1653,Nottingham Forest,Everton,0,0,1,2023-03-05
+1654,Brentford,Everton,2,0,1,2023-03-11
+1655,Chelsea,Everton,12,7,5,2023-03-18
+1656,Leeds,Everton,1,1,0,2021-08-21
+1657,Brighton,Everton,2,4,2,2021-08-28
+1658,Burnley,Everton,5,6,1,2021-09-13
+1659,Aston Villa,Everton,4,6,6,2021-09-18
+1660,Norwich,Everton,2,3,5,2021-09-25
+1661,West Ham,Everton,4,11,5,2021-10-17
+1662,Watford,Everton,3,4,3,2021-10-23
+1663,Tottenham,Everton,9,4,9,2021-11-07
+1664,Manchester City,Everton,12,5,5,2021-11-21
+1665,Brentford,Everton,0,0,0,2021-11-28
+1666,Crystal Palace,Everton,2,6,8,2021-12-12
+1667,Chelsea,Everton,11,6,4,2021-12-16
+1668,Brighton,Everton,2,5,2,2022-01-02
+1669,Norwich,Everton,2,4,5,2022-01-15
+1670,Aston Villa,Everton,5,6,6,2022-01-22
+1671,Leeds,Everton,1,1,1,2022-02-12
+1672,Manchester City,Everton,13,5,5,2022-02-26
+1673,Tottenham,Everton,9,4,10,2022-03-07
+1674,West Ham,Everton,5,11,5,2022-04-03
+1675,Burnley,Everton,5,7,1,2022-04-06
+1676,Leicester,Everton,5,6,3,2022-04-20
+1677,Chelsea,Everton,11,6,5,2022-05-01
+1678,Leicester,Everton,5,6,4,2022-05-08
+1679,Watford,Everton,4,4,3,2022-05-11
+1680,Brentford,Everton,1,0,0,2022-05-15
+1681,Crystal Palace,Everton,3,6,8,2022-05-19
+1682,Tottenham,Everton,9,3,8,2020-09-13
+1683,West Brom,Everton,4,7,5,2020-09-19
+1684,Crystal Palace,Everton,2,5,7,2020-09-26
+1685,Brighton,Everton,2,3,1,2020-10-03
+1686,Leeds,Everton,0,0,0,2020-11-28
+1687,Burnley,Everton,4,6,0,2020-12-05
+1688,Chelsea,Everton,10,5,4,2020-12-12
+1689,Leicester,Everton,5,5,2,2020-12-16
+1690,Sheffield Utd,Everton,1,1,0,2020-12-26
+1691,West Ham,Everton,3,10,5,2021-01-01
+1692,Leicester,Everton,5,6,2,2021-01-27
+1693,Leeds,Everton,1,0,0,2021-02-03
+1694,Manchester City,Everton,10,5,5,2021-02-17
+1695,West Brom,Everton,4,8,5,2021-03-04
+1696,Chelsea,Everton,10,6,4,2021-03-08
+1697,Burnley,Everton,4,6,1,2021-03-13
+1698,Crystal Palace,Everton,2,6,7,2021-04-05
+1699,Brighton,Everton,2,4,1,2021-04-12
+1700,Tottenham,Everton,9,4,8,2021-04-16
+1701,Aston Villa,Everton,3,6,5,2021-05-01
+1702,West Ham,Everton,4,10,5,2021-05-09
+1703,Aston Villa,Everton,4,6,5,2021-05-13
+1704,Sheffield Utd,Everton,1,2,0,2021-05-16
+1705,Manchester City,Everton,11,5,5,2021-05-23
+1706,Brentford,Leicester,0,2,0,2022-08-07
+1707,Chelsea,Leicester,7,3,6,2022-08-27
+1708,Brighton,Leicester,1,6,3,2022-09-04
+1709,Tottenham,Leicester,10,4,2,2022-09-17
+1710,Nottingham Forest,Leicester,0,0,0,2022-10-03
+1711,Crystal Palace,Leicester,6,7,3,2022-10-15
+1712,Leeds,Leicester,1,2,1,2022-10-20
+1713,Manchester City,Leicester,11,4,1,2022-10-29
+1714,West Ham,Leicester,5,6,5,2022-11-12
+1715,Nottingham Forest,Leicester,0,1,0,2023-01-14
+1716,Brighton,Leicester,2,6,3,2023-01-21
+1717,Aston Villa,Leicester,3,5,2,2023-02-04
+1718,Tottenham,Leicester,11,4,2,2023-02-11
+1719,Chelsea,Leicester,8,3,6,2023-03-11
+1720,Brentford,Leicester,0,2,1,2023-03-18
+1721,West Ham,Leicester,4,6,4,2021-08-23
+1722,Norwich,Leicester,1,2,1,2021-08-28
+1723,Manchester City,Leicester,9,4,1,2021-09-11
+1724,Brighton,Leicester,0,6,2,2021-09-19
+1725,Burnley,Leicester,3,6,3,2021-09-25
+1726,Crystal Palace,Leicester,6,6,2,2021-10-03
+1727,Brentford,Leicester,0,0,0,2021-10-24
+1728,Leeds,Leicester,1,1,0,2021-11-07
+1729,Chelsea,Leicester,6,3,5,2021-11-20
+1730,Watford,Leicester,3,6,1,2021-11-28
+1731,Aston Villa,Leicester,2,5,1,2021-12-05
+1732,Manchester City,Leicester,10,4,1,2021-12-26
+1733,Tottenham,Leicester,8,4,2,2022-01-19
+1734,Brighton,Leicester,1,6,2,2022-01-23
+1735,West Ham,Leicester,5,6,4,2022-02-13
+1736,Burnley,Leicester,3,6,4,2022-03-01
+1737,Leeds,Leicester,1,1,1,2022-03-05
+1738,Brentford,Leicester,0,1,0,2022-03-20
+1739,Crystal Palace,Leicester,6,6,3,2022-04-10
+1740,Aston Villa,Leicester,3,5,1,2022-04-23
+1741,Tottenham,Leicester,9,4,2,2022-05-01
+1742,Norwich,Leicester,1,3,1,2022-05-11
+1743,Watford,Leicester,3,7,1,2022-05-15
+1744,Chelsea,Leicester,7,3,5,2022-05-19
+1745,West Brom,Leicester,2,4,2,2020-09-13
+1746,Burnley,Leicester,3,5,2,2020-09-20
+1747,Manchester City,Leicester,8,3,1,2020-09-27
+1748,West Ham,Leicester,2,6,4,2020-10-04
+1749,Aston Villa,Leicester,1,4,1,2020-10-18
+1750,Leeds,Leicester,0,0,0,2020-11-02
+1751,Sheffield Utd,Leicester,0,2,0,2020-12-06
+1752,Brighton,Leicester,0,4,2,2020-12-13
+1753,Tottenham,Leicester,7,3,2,2020-12-20
+1754,Crystal Palace,Leicester,6,5,1,2020-12-28
+1755,Chelsea,Leicester,5,2,5,2021-01-19
+1756,Leeds,Leicester,0,1,0,2021-01-31
+1757,Aston Villa,Leicester,2,4,1,2021-02-21
+1758,Burnley,Leicester,3,6,2,2021-03-03
+1759,Brighton,Leicester,0,5,2,2021-03-06
+1760,Sheffield Utd,Leicester,0,3,0,2021-03-14
+1761,Manchester City,Leicester,8,4,1,2021-04-03
+1762,West Ham,Leicester,3,6,4,2021-04-11
+1763,West Brom,Leicester,2,5,2,2021-04-22
+1764,Crystal Palace,Leicester,6,5,2,2021-04-26
+1765,Chelsea,Leicester,5,3,5,2021-05-18
+1766,Tottenham,Leicester,7,4,2,2021-05-23
+1767,Chelsea,Tottenham,12,4,8,2022-08-14
+1768,Nottingham Forest,Tottenham,0,0,0,2022-08-28
+1769,West Ham,Tottenham,8,10,4,2022-08-31
+1770,Brighton,Tottenham,3,6,1,2022-10-08
+1771,Leeds,Tottenham,1,3,0,2022-11-12
+1772,Brentford,Tottenham,0,1,1,2022-12-26
+1773,Aston Villa,Tottenham,2,15,1,2023-01-01
+1774,Crystal Palace,Tottenham,2,13,3,2023-01-04
+1775,Manchester City,Tottenham,13,8,3,2023-01-19
+1776,Manchester City,Tottenham,14,8,3,2023-02-05
+1777,West Ham,Tottenham,8,10,5,2023-02-19
+1778,Chelsea,Tottenham,12,4,9,2023-02-26
+1779,Nottingham Forest,Tottenham,0,1,0,2023-03-11
+1780,Manchester City,Tottenham,13,6,3,2021-08-15
+1781,Watford,Tottenham,1,6,3,2021-08-29
+1782,Crystal Palace,Tottenham,1,12,3,2021-09-11
+1783,Chelsea,Tottenham,10,4,8,2021-09-19
+1784,Aston Villa,Tottenham,2,13,1,2021-10-03
+1785,West Ham,Tottenham,7,9,4,2021-10-24
+1786,Leeds,Tottenham,1,1,0,2021-11-21
+1787,Brentford,Tottenham,0,0,0,2021-12-02
+1788,Norwich,Tottenham,2,5,3,2021-12-05
+1789,Crystal Palace,Tottenham,2,12,3,2021-12-26
+1790,Watford,Tottenham,1,7,3,2022-01-01
+1791,Chelsea,Tottenham,11,4,8,2022-01-23
+1792,Manchester City,Tottenham,13,7,3,2022-02-19
+1793,Burnley,Tottenham,1,8,3,2022-02-23
+1794,Leeds,Tottenham,1,2,0,2022-02-26
+1795,Brighton,Tottenham,2,5,1,2022-03-16
+1796,West Ham,Tottenham,8,9,4,2022-03-20
+1797,Aston Villa,Tottenham,2,14,1,2022-04-09
+1798,Brighton,Tottenham,2,6,1,2022-04-16
+1799,Brentford,Tottenham,0,1,0,2022-04-23
+1800,Burnley,Tottenham,2,8,3,2022-05-15
+1801,Norwich,Tottenham,2,6,3,2022-05-22
+1802,West Ham,Tottenham,6,9,3,2020-10-18
+1803,Burnley,Tottenham,1,6,3,2020-10-26
+1804,Brighton,Tottenham,1,4,1,2020-11-01
+1805,West Brom,Tottenham,2,5,9,2020-11-08
+1806,Manchester City,Tottenham,12,5,3,2020-11-21
+1807,Chelsea,Tottenham,9,4,7,2020-11-29
+1808,Crystal Palace,Tottenham,1,11,2,2020-12-13
+1809,Leeds,Tottenham,0,0,0,2021-01-02
+1810,Sheffield Utd,Tottenham,1,0,1,2021-01-17
+1811,Brighton,Tottenham,1,5,1,2021-01-31
+1812,Chelsea,Tottenham,9,4,8,2021-02-04
+1813,West Brom,Tottenham,2,6,9,2021-02-07
+1814,Manchester City,Tottenham,12,6,3,2021-02-13
+1815,West Ham,Tottenham,6,9,4,2021-02-21
+1816,Burnley,Tottenham,1,7,3,2021-02-28
+1817,Crystal Palace,Tottenham,1,11,3,2021-03-07
+1818,Aston Villa,Tottenham,1,12,1,2021-03-21
+1819,Sheffield Utd,Tottenham,1,1,1,2021-05-02
+1820,Leeds,Tottenham,0,1,0,2021-05-08
+1821,Aston Villa,Tottenham,1,13,1,2021-05-19
+1822,Manchester City,West Ham,16,2,4,2022-08-07
+1823,Nottingham Forest,West Ham,0,0,0,2022-08-14
+1824,Brighton,West Ham,4,0,6,2022-08-21
+1825,Aston Villa,West Ham,4,7,5,2022-08-28
+1826,Chelsea,West Ham,12,6,4,2022-09-03
+1827,Crystal Palace,West Ham,5,7,6,2022-11-06
+1828,Brentford,West Ham,2,0,0,2022-12-30
+1829,Leeds,West Ham,1,3,0,2023-01-04
+1830,Chelsea,West Ham,13,6,4,2023-02-11
+1831,Nottingham Forest,West Ham,1,0,0,2023-02-25
+1832,Brighton,West Ham,5,0,6,2023-03-04
+1833,Aston Villa,West Ham,4,8,5,2023-03-12
+1834,Crystal Palace,West Ham,5,6,5,2021-08-28
+1835,Leeds,West Ham,0,2,0,2021-09-25
+1836,Brentford,West Ham,0,0,0,2021-10-03
+1837,Aston Villa,West Ham,4,5,5,2021-10-31
+1838,Manchester City,West Ham,15,2,3,2021-11-28
+1839,Brighton,West Ham,3,0,5,2021-12-01
+1840,Chelsea,West Ham,11,5,4,2021-12-04
+1841,Burnley,West Ham,4,7,1,2021-12-12
+1842,Watford,West Ham,4,5,1,2021-12-28
+1843,Crystal Palace,West Ham,5,6,6,2022-01-01
+1844,Norwich,West Ham,1,4,3,2022-01-12
+1845,Leeds,West Ham,0,3,0,2022-01-16
+1846,Watford,West Ham,4,6,1,2022-02-08
+1847,Aston Villa,West Ham,4,6,5,2022-03-13
+1848,Brentford,West Ham,1,0,0,2022-04-10
+1849,Burnley,West Ham,4,7,2,2022-04-17
+1850,Chelsea,West Ham,11,6,4,2022-04-24
+1851,Norwich,West Ham,1,5,3,2022-05-08
+1852,Manchester City,West Ham,16,2,3,2022-05-15
+1853,Brighton,West Ham,3,0,6,2022-05-22
+1854,Manchester City,West Ham,14,2,2,2020-10-24
+1855,Sheffield Utd,West Ham,1,0,1,2020-11-22
+1856,Aston Villa,West Ham,4,3,5,2020-11-30
+1857,Leeds,West Ham,0,0,0,2020-12-11
+1858,Crystal Palace,West Ham,5,5,4,2020-12-16
+1859,Chelsea,West Ham,9,5,4,2020-12-21
+1860,Brighton,West Ham,3,0,3,2020-12-27
+1861,Burnley,West Ham,4,5,1,2021-01-16
+1862,West Brom,West Ham,2,4,8,2021-01-19
+1863,Crystal Palace,West Ham,5,5,5,2021-01-26
+1864,Aston Villa,West Ham,4,4,5,2021-02-03
+1865,Sheffield Utd,West Ham,1,1,1,2021-02-15
+1866,Manchester City,West Ham,14,2,3,2021-02-27
+1867,Leeds,West Ham,0,1,0,2021-03-08
+1868,Chelsea,West Ham,10,5,4,2021-04-24
+1869,Burnley,West Ham,4,6,1,2021-05-03
+1870,Brighton,West Ham,3,0,4,2021-05-15
+1871,West Brom,West Ham,2,5,8,2021-05-19
+1872,Leeds,Chelsea,0,3,1,2022-08-21
+1873,Crystal Palace,Chelsea,4,14,0,2022-10-01
+1874,Aston Villa,Chelsea,3,12,3,2022-10-16
+1875,Brentford,Chelsea,1,1,0,2022-10-19
+1876,Brighton,Chelsea,0,6,4,2022-10-29
+1877,Nottingham Forest,Chelsea,0,0,0,2023-01-01
+1878,Manchester City,Chelsea,12,9,3,2023-01-05
+1879,Crystal Palace,Chelsea,4,15,0,2023-01-15
+1880,Leeds,Chelsea,1,3,1,2023-03-04
+1881,Crystal Palace,Chelsea,4,12,0,2021-08-14
+1882,Aston Villa,Chelsea,3,10,3,2021-09-11
+1883,Manchester City,Chelsea,10,9,3,2021-09-25
+1884,Brentford,Chelsea,0,0,0,2021-10-16
+1885,Norwich,Chelsea,0,8,2,2021-10-23
+1886,Burnley,Chelsea,1,8,3,2021-11-06
+1887,Watford,Chelsea,1,7,2,2021-12-01
+1888,Leeds,Chelsea,0,1,1,2021-12-11
+1889,Aston Villa,Chelsea,3,11,3,2021-12-26
+1890,Brighton,Chelsea,0,6,2,2021-12-29
+1891,Manchester City,Chelsea,11,9,3,2022-01-15
+1892,Brighton,Chelsea,0,6,3,2022-01-18
+1893,Crystal Palace,Chelsea,4,13,0,2022-02-19
+1894,Burnley,Chelsea,1,8,4,2022-03-05
+1895,Norwich,Chelsea,0,9,2,2022-03-10
+1896,Brentford,Chelsea,0,1,0,2022-04-02
+1897,Leeds,Chelsea,0,2,1,2022-05-11
+1898,Watford,Chelsea,1,8,2,2022-05-22
+1899,Brighton,Chelsea,0,5,1,2020-09-14
+1900,West Brom,Chelsea,3,10,3,2020-09-26
+1901,Crystal Palace,Chelsea,4,10,0,2020-10-03
+1902,Burnley,Chelsea,1,6,3,2020-10-31
+1903,Sheffield Utd,Chelsea,1,0,1,2020-11-07
+1904,Leeds,Chelsea,0,0,0,2020-12-05
+1905,Aston Villa,Chelsea,2,10,2,2020-12-28
+1906,Manchester City,Chelsea,9,8,3,2021-01-03
+1907,Burnley,Chelsea,1,7,3,2021-01-31
+1908,Sheffield Utd,Chelsea,1,1,1,2021-02-07
+1909,Leeds,Chelsea,0,1,0,2021-03-13
+1910,West Brom,Chelsea,3,10,4,2021-04-03
+1911,Crystal Palace,Chelsea,4,11,0,2021-04-10
+1912,Brighton,Chelsea,0,6,1,2021-04-20
+1913,Manchester City,Chelsea,10,8,3,2021-05-08
+1914,Aston Villa,Chelsea,2,10,3,2021-05-23
+1915,Crystal Palace,Manchester City,3,12,3,2022-08-27
+1916,Nottingham Forest,Manchester City,0,0,0,2022-08-31
+1917,Aston Villa,Manchester City,2,15,1,2022-09-03
+1918,Brighton,Manchester City,1,9,0,2022-10-22
+1919,Brentford,Manchester City,0,2,0,2022-11-12
+1920,Leeds,Manchester City,1,2,1,2022-12-28
+1921,Aston Villa,Manchester City,2,15,2,2023-02-12
+1922,Nottingham Forest,Manchester City,0,1,0,2023-02-18
+1923,Crystal Palace,Manchester City,3,13,3,2023-03-11
+1924,Norwich,Manchester City,2,6,2,2021-08-21
+1925,Burnley,Manchester City,1,9,2,2021-10-16
+1926,Brighton,Manchester City,1,7,0,2021-10-23
+1927,Crystal Palace,Manchester City,2,12,2,2021-10-30
+1928,Aston Villa,Manchester City,2,13,1,2021-12-01
+1929,Watford,Manchester City,0,10,0,2021-12-04
+1930,Leeds,Manchester City,1,0,1,2021-12-14
+1931,Brentford,Manchester City,0,0,0,2021-12-29
+1932,Brentford,Manchester City,0,1,0,2022-02-09
+1933,Norwich,Manchester City,2,7,2,2022-02-12
+1934,Crystal Palace,Manchester City,3,12,2,2022-03-14
+1935,Burnley,Manchester City,1,10,2,2022-04-02
+1936,Brighton,Manchester City,1,8,0,2022-04-20
+1937,Watford,Manchester City,0,11,0,2022-04-23
+1938,Leeds,Manchester City,1,1,1,2022-04-30
+1939,Aston Villa,Manchester City,2,14,1,2022-05-22
+1940,Leeds,Manchester City,0,0,0,2020-10-03
+1941,Sheffield Utd,Manchester City,0,2,0,2020-10-31
+1942,Burnley,Manchester City,1,7,2,2020-11-28
+1943,West Brom,Manchester City,0,15,1,2020-12-15
+1944,Brighton,Manchester City,0,6,0,2021-01-13
+1945,Crystal Palace,Manchester City,2,10,2,2021-01-17
+1946,Aston Villa,Manchester City,2,11,1,2021-01-20
+1947,West Brom,Manchester City,0,15,2,2021-01-26
+1948,Sheffield Utd,Manchester City,0,3,0,2021-01-30
+1949,Burnley,Manchester City,1,8,2,2021-02-03
+1950,Leeds,Manchester City,0,0,1,2021-04-10
+1951,Aston Villa,Manchester City,2,12,1,2021-04-21
+1952,Crystal Palace,Manchester City,2,11,2,2021-05-01
+1953,Brighton,Manchester City,0,7,0,2021-05-18
+1954,Leeds,Brighton,0,2,2,2022-08-27
+1955,Brentford,Brighton,0,2,0,2022-10-14
+1956,Nottingham Forest,Brighton,0,0,0,2022-10-18
+1957,Aston Villa,Brighton,3,1,2,2022-11-13
+1958,Crystal Palace,Brighton,3,2,5,2023-02-11
+1959,Leeds,Brighton,0,3,2,2023-03-11
+1960,Crystal Palace,Brighton,3,2,6,2023-03-15
+1961,Burnley,Brighton,2,1,5,2021-08-14
+1962,Watford,Brighton,1,2,3,2021-08-21
+1963,Brentford,Brighton,0,0,0,2021-09-11
+1964,Crystal Palace,Brighton,3,2,3,2021-09-27
+1965,Norwich,Brighton,0,2,0,2021-10-16
+1966,Aston Villa,Brighton,1,1,2,2021-11-20
+1967,Leeds,Brighton,0,2,0,2021-11-27
+1968,Brentford,Brighton,0,1,0,2021-12-26
+1969,Crystal Palace,Brighton,3,2,4,2022-01-14
+1970,Watford,Brighton,1,3,3,2022-02-12
+1971,Burnley,Brighton,2,2,5,2022-02-19
+1972,Aston Villa,Brighton,2,1,2,2022-02-26
+1973,Norwich,Brighton,0,2,1,2022-04-02
+1974,Leeds,Brighton,0,2,1,2022-05-15
+1975,Crystal Palace,Brighton,2,2,2,2020-10-18
+1976,West Brom,Brighton,1,1,0,2020-10-26
+1977,Burnley,Brighton,2,1,3,2020-11-06
+1978,Aston Villa,Brighton,1,0,1,2020-11-21
+1979,Sheffield Utd,Brighton,1,0,1,2020-12-20
+1980,Leeds,Brighton,0,0,0,2021-01-16
+1981,Burnley,Brighton,2,1,4,2021-02-06
+1982,Aston Villa,Brighton,1,1,1,2021-02-13
+1983,Crystal Palace,Brighton,2,2,3,2021-02-22
+1984,West Brom,Brighton,1,1,1,2021-02-27
+1985,Sheffield Utd,Brighton,1,0,2,2021-04-24
+1986,Leeds,Brighton,0,1,0,2021-05-01
+1987,Aston Villa,Crystal Palace,5,5,2,2022-08-20
+1988,Brentford,Crystal Palace,0,0,2,2022-08-30
+1989,Leeds,Crystal Palace,2,1,1,2022-10-09
+1990,Nottingham Forest,Crystal Palace,0,0,0,2022-11-12
+1991,Brentford,Crystal Palace,0,0,3,2023-02-18
+1992,Aston Villa,Crystal Palace,5,6,2,2023-03-04
+1993,Brentford,Crystal Palace,0,0,0,2021-08-21
+1994,Burnley,Crystal Palace,6,5,1,2021-11-20
+1995,Aston Villa,Crystal Palace,4,5,1,2021-11-27
+1996,Leeds,Crystal Palace,1,1,0,2021-11-30
+1997,Norwich,Crystal Palace,1,3,2,2021-12-28
+1998,Norwich,Crystal Palace,1,4,2,2022-02-09
+1999,Brentford,Crystal Palace,0,0,1,2022-02-12
+2000,Watford,Crystal Palace,3,4,3,2022-02-23
+2001,Burnley,Crystal Palace,6,5,2,2022-02-26
+2002,Leeds,Crystal Palace,2,1,0,2022-04-25
+2003,Watford,Crystal Palace,3,5,3,2022-05-07
+2004,Aston Villa,Crystal Palace,5,5,1,2022-05-15
+2005,Leeds,Crystal Palace,0,0,0,2020-11-07
+2006,Burnley,Crystal Palace,4,5,1,2020-11-23
+2007,West Brom,Crystal Palace,4,4,2,2020-12-06
+2008,Aston Villa,Crystal Palace,3,4,1,2020-12-26
+2009,Sheffield Utd,Crystal Palace,2,0,0,2021-01-02
+2010,Leeds,Crystal Palace,0,1,0,2021-02-08
+2011,Burnley,Crystal Palace,5,5,1,2021-02-13
+2012,West Brom,Crystal Palace,4,5,2,2021-03-13
+2013,Sheffield Utd,Crystal Palace,2,1,0,2021-05-08
+2014,Aston Villa,Crystal Palace,4,4,1,2021-05-16
+2015,Leeds,Brentford,1,0,1,2022-09-03
+2016,Aston Villa,Brentford,0,1,1,2022-10-23
+2017,Nottingham Forest,Brentford,0,0,0,2022-11-05
+2018,Leeds,Brentford,1,1,1,2023-01-22
+2019,Aston Villa,Brentford,0,0,0,2021-08-28
+2020,Burnley,Brentford,0,0,0,2021-10-30
+2021,Norwich,Brentford,0,0,0,2021-11-06
+2022,Leeds,Brentford,0,0,0,2021-12-05
+2023,Watford,Brentford,0,0,0,2021-12-10
+2024,Aston Villa,Brentford,0,0,1,2022-01-02
+2025,Norwich,Brentford,1,0,0,2022-03-05
+2026,Burnley,Brentford,1,0,0,2022-03-12
+2027,Watford,Brentford,0,1,0,2022-04-16
+2028,Leeds,Brentford,0,0,1,2022-05-22
+2029,Aston Villa,Leeds,2,1,1,2022-10-02
+2030,Arsenal,Leeds,3,0,1,2022-10-16
+2031,Aston Villa,Leeds,2,1,2,2023-01-13
+2032,Nottingham Forest,Leeds,0,0,0,2023-02-05
+2033,Burnley,Leeds,0,2,0,2021-08-29
+2034,Watford,Leeds,0,0,0,2021-10-02
+2035,Norwich,Leeds,0,0,0,2021-10-31
+2036,Arsenal,Leeds,1,0,1,2021-12-18
+2037,Burnley,Leeds,0,2,1,2022-01-02
+2038,Aston Villa,Leeds,1,1,0,2022-02-09
+2039,Aston Villa,Leeds,1,1,1,2022-03-10
+2040,Norwich,Leeds,0,1,0,2022-03-13
+2041,Watford,Leeds,0,1,0,2022-04-09
+2042,Arsenal,Leeds,2,0,1,2022-05-08
+2043,Sheffield Utd,Leeds,0,0,0,2020-09-27
+2044,Aston Villa,Leeds,0,0,0,2020-10-23
+2045,Arsenal,Leeds,0,0,0,2020-11-22
+2046,Burnley,Leeds,0,0,0,2020-12-27
+2047,West Brom,Leeds,0,0,0,2020-12-29
+2048,Arsenal,Leeds,0,0,1,2021-02-14
+2049,Aston Villa,Leeds,0,1,0,2021-02-27
+2050,Sheffield Utd,Leeds,0,1,0,2021-04-03
+2051,Burnley,Leeds,0,1,0,2021-05-15
+2052,West Brom,Leeds,0,1,0,2021-05-23
+2053,Aston Villa,Nottingham Forest,0,0,0,2022-10-10
+2054,Watford,Aston Villa,3,1,0,2021-08-14
+2055,Norwich,Aston Villa,2,7,1,2021-12-14
+2056,Watford,Aston Villa,4,1,0,2022-02-19
+2057,Norwich,Aston Villa,2,8,1,2022-04-30
+2058,Burnley,Aston Villa,2,1,3,2022-05-07
+2059,Burnley,Aston Villa,2,2,3,2022-05-19
+2060,Sheffield Utd,Aston Villa,1,0,1,2020-09-21
+2061,Burnley,Aston Villa,1,1,2,2020-12-17
+2062,West Brom,Aston Villa,4,3,5,2020-12-20
+2063,Burnley,Aston Villa,1,1,3,2021-01-27
+2064,Sheffield Utd,Aston Villa,1,1,1,2021-03-03
+2065,West Brom,Aston Villa,4,4,5,2021-04-25
+2066,Norwich,Watford,1,3,0,2021-09-18
+2067,Norwich,Watford,1,4,0,2022-01-21
+2068,Burnley,Watford,5,2,1,2022-02-05
+2069,Burnley,Watford,5,2,2,2022-04-30
+2070,Norwich,Burnley,0,2,0,2021-10-02
+2071,Norwich,Burnley,0,2,1,2022-04-10
+2072,West Brom,Burnley,3,1,2,2020-10-19
+2073,Sheffield Utd,Burnley,1,0,1,2020-12-29
+2074,West Brom,Burnley,3,1,3,2021-02-20
+2075,Sheffield Utd,Burnley,1,1,1,2021-05-23
+2076,Sheffield Utd,West Brom,0,0,0,2020-11-28
+2077,Sheffield Utd,West Brom,0,1,0,2021-02-02

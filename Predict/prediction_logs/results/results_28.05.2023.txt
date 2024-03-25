@@ -1,0 +1,23 @@
+28.05.2023
+
+Aston Villa - Brighton , result: W, predicted: W
+Brentford - Manchester City , result: W, predicted: L
+Arsenal - Wolves , result: W, predicted: W
+Chelsea - Newcastle , result: D, predicted: L
+Everton - Bournemouth , result: W, predicted: W
+Crystal Palace - Nottingham Forest , result: D, predicted: W
+Leeds - Tottenham , result: L, predicted: L
+Leicester - West Ham , result: W, predicted: L
+Manchester United - Fulham , result: W, predicted: W
+Southampton - Liverpool , result: D, predicted: L
+Lazio - Cremonese , result: W, predicted: W
+Athletic Club - Elche , result: L, predicted: W
+Atletico Madrid - Real Sociedad , result: W, predicted: W
+Barcelona - Mallorca , result: W, predicted: W
+Getafe - Osasuna , result: W, predicted: W
+Cadiz - Celta Vigo , result: W, predicted: L
+Almeria - Valladolid , result: D, predicted: W
+Rayo Vallecano - Villarreal , result: W, predicted: L
+Girona - Real Betis , result: L, predicted: W
+Valencia - Espanyol , result: D, predicted: W
+Juventus - AC Milan , result: L, predicted: W

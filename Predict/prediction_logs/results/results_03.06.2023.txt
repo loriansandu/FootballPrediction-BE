@@ -1,0 +1,14 @@
+03.06.2023
+
+Torino - Inter , result: L, predicted: L
+Ajaccio - Marseille , result: W, predicted: L
+Lorient - Strasbourg , result: W, predicted: L
+Auxerre - Lens , result: L, predicted: L
+Nice - Lyon , result: W, predicted: W
+Monaco - Toulouse , result: L, predicted: W
+Nantes - Angers , result: W, predicted: W
+Paris Saint Germain - Clermont Foot , result: L, predicted: W
+Reims - Montpellier , result: L, predicted: W
+Estac Troyes - Lille , result: D, predicted: L
+Empoli - Lazio , result: L, predicted: L
+Cremonese - Salernitana , result: W, predicted: L

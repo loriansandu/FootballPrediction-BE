@@ -1,0 +1,4 @@
+{"result": "W", "win": "0.7439290195386035", "draw": "0.22584371545785498", "lose": "0.030227265003541497", "team": "Shanghai Shenhua", "opponent": "Nantong Zhiyun"}
+{"result": "W", "win": "0.5879447197866258", "draw": "0.29154588087333333", "lose": "0.12050939934004085", "team": "Tianjin Teda", "opponent": "Qingdao Jonoon"}
+{"result": "W", "win": "0.8064264704555004", "draw": "0.1597569219204908", "lose": "0.033816607624008774", "team": "Wuhan Three Towns", "opponent": "Dalian Aerbin"}
+{"result": "W", "win": "0.5724508596318258", "draw": "0.28750886844281187", "lose": "0.14004027192536228", "team": "Hangzhou Greentown", "opponent": "Meizhou Kejia"}

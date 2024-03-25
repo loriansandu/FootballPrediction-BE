@@ -1,0 +1,5 @@
+{"result": "L", "win": "0.42667278272326314", "draw": "0.10283069835626543", "lose": "0.4704965189204715", "team": "Valour", "opponent": "Forge"}
+{"result": "L", "win": "0.39922432358474563", "draw": "0.1642917701712505", "lose": "0.4364839062440039", "team": "HFX Wanderers FC", "opponent": "Cavalry FC"}
+{"result": "L", "win": "0.39922432358474563", "draw": "0.1642917701712505", "lose": "0.4364839062440039", "team": "HFX Wanderers FC", "opponent": "Cavalry FC"}
+{"result": "L", "win": "0.42667278272326314", "draw": "0.10283069835626543", "lose": "0.4704965189204715", "team": "Valour", "opponent": "Forge"}
+{"result": "L", "win": "0.42667278272326314", "draw": "0.10283069835626543", "lose": "0.4704965189204715", "team": "Valour", "opponent": "Forge"}

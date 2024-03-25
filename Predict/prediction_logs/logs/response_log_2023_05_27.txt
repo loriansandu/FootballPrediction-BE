@@ -1,0 +1,18 @@
+{"result": "L", "win": "0.2681791721776957", "draw": "0.24079785980787466", "lose": "0.49102296801442974", "team": "Eintracht Frankfurt", "opponent": "SC Freiburg"}
+{"result": "W", "win": "0.8031502263843333", "draw": "0.14063965260499145", "lose": "0.05621012101067537", "team": "VfL Wolfsburg", "opponent": "Hertha Berlin"}
+{"result": "W", "win": "0.5537966547638778", "draw": "0.23580125058095766", "lose": "0.21040209465516446", "team": "RB Leipzig", "opponent": "FC Schalke 04"}
+{"result": "W", "win": "0.9073581274984059", "draw": "0.058446730876514974", "lose": "0.03419514162507906", "team": "Borussia Dortmund", "opponent": "FSV Mainz 05"}
+{"result": "L", "win": "0.09564335734229394", "draw": "0.13649887806607575", "lose": "0.7678577645916302", "team": "FC Koln", "opponent": "Bayern Munich"}
+{"result": "W", "win": "0.7567382995769183", "draw": "0.1465418561705497", "lose": "0.09671984425253202", "team": "Union Berlin", "opponent": "Werder Bremen"}
+{"result": "W", "win": "0.5509504750572756", "draw": "0.24355039408001344", "lose": "0.20549913086271093", "team": "VfB Stuttgart", "opponent": "1899 Hoffenheim"}
+{"result": "L", "win": "0.3117242991309252", "draw": "0.17454649905792152", "lose": "0.5137292018111533", "team": "Sevilla", "opponent": "Real Madrid"}
+{"result": "W", "win": "0.4042927065946025", "draw": "0.2881162823621516", "lose": "0.30759101104324593", "team": "Inter", "opponent": "Atalanta"}
+{"result": "L", "win": "0.3549956235284177", "draw": "0.20468462551828392", "lose": "0.44031975095329834", "team": "Fiorentina", "opponent": "AS Roma"}
+{"result": "W", "win": "0.39744644210328195", "draw": "0.2490077476724053", "lose": "0.35354581022431264", "team": "Angers", "opponent": "Estac Troyes"}
+{"result": "L", "win": "0.37108392876526697", "draw": "0.25382712681424957", "lose": "0.37508894442048346", "team": "Clermont Foot", "opponent": "Lorient"}
+{"result": "W", "win": "0.6906735994589002", "draw": "0.17934264665894498", "lose": "0.1299837538821548", "team": "Lille", "opponent": "Nantes"}
+{"result": "W", "win": "0.4018420228074507", "draw": "0.21973545899008246", "lose": "0.37842251820246686", "team": "Montpellier", "opponent": "Nice"}
+{"result": "W", "win": "0.4805167339047533", "draw": "0.24710307708435364", "lose": "0.27238018901089306", "team": "Lyon", "opponent": "Reims"}
+{"result": "W", "win": "0.9785454468689849", "draw": "0.02078419299243405", "lose": "0.0006703601385810024", "team": "Lens", "opponent": "Ajaccio"}
+{"result": "L", "win": "0.14662083256480887", "draw": "0.22926141981633658", "lose": "0.6241177476188546", "team": "Strasbourg", "opponent": "Paris Saint Germain"}
+{"result": "L", "win": "0.3542434525913926", "draw": "0.23061221522518927", "lose": "0.4151443321834181", "team": "Rennes", "opponent": "Monaco"}

@@ -1,0 +1,20 @@
+27.05.2023
+
+Eintracht Frankfurt - SC Freiburg , result : W,  predicted : L
+VfL Wolfsburg - Hertha Berlin , result : L, predicted : W
+RB Leipzig - FC Schalke 04 , result : W, predicted : W
+Borussia Dortmund - FSV Mainz 05 , result : D, predicted : W
+FC Koln - Bayern Munich , result : L, predicted : L
+Union Berlin - Werder Bremen , result : W, predicted : W
+VfB Stuttgart - 1899 Hoffenheim , result : D, predicted : W
+Sevilla - Real Madrid , result : L, predicted : L
+Inter - Atalanta , result : W, predicted : W
+Fiorentina - AS Roma , result : W, predicted : L
+Angers - Estac Troyes , result : W, predicted : W
+Clermont Foot - Lorient , result : W, predicted : L
+Lille - Nantes , result : W, predicted : W
+Montpellier - Nice , result : L, predicted : W
+Lyon - Reims , result : W, predicted : W
+Lens - Ajaccio , result : W, predicted : W
+Strasbourg - Paris Saint Germain , result : D, predicted : L
+Rennes - Monaco , result : W, predicted : L

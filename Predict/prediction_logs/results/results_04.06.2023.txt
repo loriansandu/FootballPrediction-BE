@@ -1,0 +1,18 @@
+04.06.2023
+
+Elche - Cadiz , result: D, predicted: L
+Espanyol - Almeria , result: D, predicted: W
+Real Sociedad - Sevilla , result: W, predicted: W
+Atalanta - Monza , result: W, predicted: L
+Valladolid - Getafe , result: D, predicted: W
+Mallorca - Rayo Vallecano , result: W, predicted: L
+AS Roma - Spezia , result: W, predicted: W
+AC Milan - Verona , result: W, predicted: W
+Real Madrid - Athletic Club , result: D, predicted: W
+Lecce - Bologna , result: L, predicted: W
+Osasuna - Girona , result: W, predicted: W
+Udinese - Juventus , result: L, predicted: L
+Villarreal - Atletico Madrid , result: D, predicted: L
+Celta Vigo - Barcelona , result: L, predicted: W
+Napoli - Sampdoria , result: W, predicted: W
+Real Betis - Valencia , result: D, predicted: L

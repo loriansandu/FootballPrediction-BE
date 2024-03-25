@@ -1,0 +1,16 @@
+{"result": "L", "win": "0.2849650656214452", "draw": "0.3284418773158271", "lose": "0.38659305706272773", "team": "Elche", "opponent": "Cadiz"}
+{"result": "W", "win": "0.36933666994452996", "draw": "0.2656557375218317", "lose": "0.36500759253363835", "team": "Espanyol", "opponent": "Almeria"}
+{"result": "W", "win": "0.644215759944383", "draw": "0.1843380110430871", "lose": "0.17144622901252993", "team": "Real Sociedad", "opponent": "Sevilla"}
+{"result": "L", "win": "0.02129438119310021", "draw": "0.0234009818604602", "lose": "0.9553046369464396", "team": "Atalanta", "opponent": "Monza"}
+{"result": "W", "win": "0.39055617992994346", "draw": "0.30832484049779674", "lose": "0.3011189795722598", "team": "Valladolid", "opponent": "Getafe"}
+{"result": "L", "win": "0.32529322797004867", "draw": "0.24355522213353092", "lose": "0.43115154989642046", "team": "Mallorca", "opponent": "Rayo Vallecano"}
+{"result": "W", "win": "0.562588994774504", "draw": "0.23593764116043547", "lose": "0.20147336406506067", "team": "AS Roma", "opponent": "Spezia"}
+{"result": "W", "win": "0.5306622952110073", "draw": "0.2365077062383073", "lose": "0.23282999855068542", "team": "AC Milan", "opponent": "Verona"}
+{"result": "W", "win": "0.4872694404193289", "draw": "0.2038713614989455", "lose": "0.30885919808172557", "team": "Real Madrid", "opponent": "Athletic Club"}
+{"result": "W", "win": "0.37208435961723646", "draw": "0.2874771408560263", "lose": "0.3404384995267372", "team": "Lecce", "opponent": "Bologna"}
+{"result": "W", "win": "0.42705169329724285", "draw": "0.2454931799026725", "lose": "0.3274551268000846", "team": "Osasuna", "opponent": "Girona"}
+{"result": "L", "win": "0.1442135765530651", "draw": "0.14574915912732644", "lose": "0.7100372643196083", "team": "Udinese", "opponent": "Juventus"}
+{"result": "L", "win": "0.23101333343452785", "draw": "0.23887549387230494", "lose": "0.5301111726931671", "team": "Villarreal", "opponent": "Atletico Madrid"}
+{"result": "W", "win": "0.41805031644873936", "draw": "0.18091784683862844", "lose": "0.4010318367126322", "team": "Celta Vigo", "opponent": "Barcelona"}
+{"result": "W", "win": "0.9890222248827661", "draw": "0.009674658317575347", "lose": "0.001303116799658666", "team": "Napoli", "opponent": "Sampdoria"}
+{"result": "L", "win": "0.3266789826155566", "draw": "0.22673649806066476", "lose": "0.44658451932377863", "team": "Real Betis", "opponent": "Valencia"}

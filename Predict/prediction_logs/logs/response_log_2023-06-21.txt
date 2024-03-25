@@ -1,0 +1,8 @@
+{"result": "W", "win": "0.3386489986367037", "draw": "0.3351512622074146", "lose": "0.32619973915588174", "team": "Central Cordoba de Santiago", "opponent": "Gimnasia L.P."}
+{"result": "W", "win": "0.4634175365802388", "draw": "0.22988940675856515", "lose": "0.30669305666119606", "team": "Tigre", "opponent": "Velez Sarsfield"}
+{"result": "W", "win": "0.3985112303152586", "draw": "0.2959324758286225", "lose": "0.30555629385611893", "team": "Estudiantes L.P.", "opponent": "San Lorenzo"}
+{"result": "W", "win": "0.3386489986367037", "draw": "0.3351512622074146", "lose": "0.32619973915588174", "team": "Central Cordoba de Santiago", "opponent": "Gimnasia L.P."}
+{"result": "W", "win": "0.4197154078597433", "draw": "0.31550899308956915", "lose": "0.26477559905068754", "team": "Racing Club", "opponent": "Barracas Central"}
+{"result": "W", "win": "0.3386489986367037", "draw": "0.3351512622074146", "lose": "0.32619973915588174", "team": "Central Cordoba de Santiago", "opponent": "Gimnasia L.P."}
+{"result": "W", "win": "0.3985112303152586", "draw": "0.2959324758286225", "lose": "0.30555629385611893", "team": "Estudiantes L.P.", "opponent": "San Lorenzo"}
+{"result": "W", "win": "0.4634175365802388", "draw": "0.22988940675856515", "lose": "0.30669305666119606", "team": "Tigre", "opponent": "Velez Sarsfield"}
